@@ -1,0 +1,1833 @@
+SWISSPROT Entries
+
+Gene Name:  7469.1}
+Entry Name:  Q5ZVQ3_LEGPH
+Sequence length:  469
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27469.1};
+
+Gene Name:  lpg1388
+Entry Name:  ERPA_LEGPH
+Sequence length:  130
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Iron-sulfur cluster insertion protein ErpA {ECO:0000255|HAMAP-Rule:MF_01380};
+
+Gene Name:  lpg1389
+Entry Name:  MNMA_LEGPH
+Sequence length:  361
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=tRNA-specific 2-thiouridylase MnmA {ECO:0000255|HAMAP-Rule:MF_00144}; EC=2.8.1.13 {ECO:0000255|HAMAP-Rule:MF_00144};
+
+Gene Name:  7472.1}
+Entry Name:  Q5ZVQ0_LEGPH
+Sequence length:  142
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27472.1};
+
+Gene Name:  lpg1391
+Entry Name:  RL32_LEGPH
+Sequence length:  63
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=50S ribosomal protein L32 {ECO:0000255|HAMAP-Rule:MF_00340};
+
+Gene Name:  lpg1392
+Entry Name:  PLSX_LEGPH
+Sequence length:  342
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Phosphate acyltransferase {ECO:0000255|HAMAP-Rule:MF_00019}; EC=2.3.1.n2 {ECO:0000255|HAMAP-Rule:MF_00019}; AltName: Full=Acyl-ACP phosphotransacylase {ECO:0000255|HAMAP-Rule:MF_00019}; AltName: Full=Acyl-[acyl-carrier-protein]--phosphate acyltransferase {ECO:0000255|HAMAP-Rule:MF_00019}; AltName: Full=Phosphate-acyl-ACP acyltransferase {ECO:0000255|HAMAP-Rule:MF_00019};
+
+Gene Name:  7475.1}
+Entry Name:  Q5ZVP7_LEGPH
+Sequence length:  317
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=3-oxoacyl-[acyl-carrier-protein] synthase 3 {ECO:0000256|HAMAP-Rule:MF_01815}; EC=2.3.1.180 {ECO:0000256|HAMAP-Rule:MF_01815}; AltName: Full=3-oxoacyl-[acyl-carrier-protein] synthase III {ECO:0000256|HAMAP-Rule:MF_01815}; AltName: Full=Beta-ketoacyl-ACP synthase III {ECO:0000256|HAMAP-Rule:MF_01815};
+
+Gene Name:  7476.1}
+Entry Name:  Q5ZVP6_LEGPH
+Sequence length:  315
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Malonyl CoA-acyl carrier protein transacylase {ECO:0000256|PIRNR:PIRNR000446}; EC=2.3.1.39 {ECO:0000256|PIRNR:PIRNR000446};
+
+Gene Name:  7477.1}
+Entry Name:  Q5ZVP5_LEGPH
+Sequence length:  248
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=3-oxoacyl-(Acyl carrier protein) reductase {ECO:0000313|EMBL:AAU27477.1}; EC=1.1.1.100 {ECO:0000313|EMBL:AAU27477.1};
+
+Gene Name:  7478.1}
+Entry Name:  Q5ZVP4_LEGPH
+Sequence length:  82
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Acyl carrier protein {ECO:0000256|HAMAP-Rule:MF_01217, ECO:0000256|RuleBase:RU003545}; Short=ACP {ECO:0000256|HAMAP-Rule:MF_01217};
+
+Gene Name:  7479.1}
+Entry Name:  Q5ZVP3_LEGPH
+Sequence length:  412
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=3-oxoacyl-[acyl-carrier-protein] synthase 2 {ECO:0000256|PIRNR:PIRNR000447}; EC=2.3.1.179 {ECO:0000256|PIRNR:PIRNR000447};
+
+Gene Name:  7480.1}
+Entry Name:  Q5ZVP2_LEGPH
+Sequence length:  332
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Periplasmic solute-binding protein {ECO:0000313|EMBL:AAU27480.1};
+
+Gene Name:  lpg1399
+Entry Name:  KTHY_LEGPH
+Sequence length:  212
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Thymidylate kinase {ECO:0000255|HAMAP-Rule:MF_00165}; EC=2.7.4.9 {ECO:0000255|HAMAP-Rule:MF_00165}; AltName: Full=dTMP kinase {ECO:0000255|HAMAP-Rule:MF_00165};
+
+Gene Name:  7482.1}
+Entry Name:  Q5ZVP0_LEGPH
+Sequence length:  301
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=DNA polymerase III, delta prime subunit {ECO:0000313|EMBL:AAU27482.1}; EC=2.7.7.7 {ECO:0000313|EMBL:AAU27482.1};
+
+Gene Name:  7483.1}
+Entry Name:  Q5ZVN9_LEGPH
+Sequence length:  113
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Type 4 fimbrial biogenesis protein PilZ {ECO:0000313|EMBL:AAU27483.1};
+
+Gene Name:  7484.1}
+Entry Name:  Q5ZVN8_LEGPH
+Sequence length:  270
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Deoxyribonuclease TatD {ECO:0000313|EMBL:AAU27484.1}; EC=3.1.21.- {ECO:0000313|EMBL:AAU27484.1};
+
+Gene Name:  lpg1403
+Entry Name:  ANMK_LEGPH
+Sequence length:  366
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Anhydro-N-acetylmuramic acid kinase {ECO:0000255|HAMAP-Rule:MF_01270}; EC=2.7.1.170 {ECO:0000255|HAMAP-Rule:MF_01270}; AltName: Full=AnhMurNAc kinase {ECO:0000255|HAMAP-Rule:MF_01270};
+
+Gene Name:  7486.1}
+Entry Name:  Q5ZVN6_LEGPH
+Sequence length:  430
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Major facilitator family transporter {ECO:0000313|EMBL:AAU27486.1};
+
+Gene Name:  7487.1}
+Entry Name:  Q5ZVN5_LEGPH
+Sequence length:  426
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Multidrug translocase MdfA, chloramphenicol resistance pump Cmr {ECO:0000313|EMBL:AAU27487.1};
+
+Gene Name:  7488.1}
+Entry Name:  Q5ZVN4_LEGPH
+Sequence length:  391
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Glycosyltransferase {ECO:0000313|EMBL:AAU27488.1};
+
+Gene Name:  7489.1}
+Entry Name:  Q5ZVN3_LEGPH
+Sequence length:  461
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Dolichol monophosphate mannose synthase {ECO:0000313|EMBL:AAU27489.1};
+
+Gene Name:  7490.1}
+Entry Name:  Q5ZVN2_LEGPH
+Sequence length:  383
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Choline kinase {ECO:0000313|EMBL:AAU27490.1};
+
+Gene Name:  7491.1}
+Entry Name:  Q5ZVN1_LEGPH
+Sequence length:  256
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27491.1};
+
+Gene Name:  7492.1}
+Entry Name:  Q5ZVN0_LEGPH
+Sequence length:  198
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Transcriptional regulatory protein {ECO:0000313|EMBL:AAU27492.1};
+
+Gene Name:  7493.1}
+Entry Name:  Q5ZVM9_LEGPH
+Sequence length:  236
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Adenylate kinase {ECO:0000256|HAMAP-Rule:MF_00235, ECO:0000256|RuleBase:RU003331, ECO:0000256|SAAS:SAAS00649150}; Short=AK {ECO:0000256|HAMAP-Rule:MF_00235}; EC=2.7.4.3 {ECO:0000256|HAMAP-Rule:MF_00235, ECO:0000256|RuleBase:RU003331, ECO:0000256|SAAS:SAAS00649150}; AltName: Full=ATP-AMP transphosphorylase {ECO:0000256|HAMAP-Rule:MF_00235}; AltName: Full=ATP:AMP phosphotransferase {ECO:0000256|HAMAP-Rule:MF_00235}; AltName: Full=Adenylate monophosphate kinase {ECO:0000256|HAMAP-Rule:MF_00235};
+
+Gene Name:  7494.1}
+Entry Name:  Q5ZVM8_LEGPH
+Sequence length:  120
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Thioredoxin {ECO:0000256|PIRNR:PIRNR000077};
+
+Gene Name:  7495.1}
+Entry Name:  Q5ZVM7_LEGPH
+Sequence length:  506
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Glycerol-3-phosphate dehydrogenase {ECO:0000256|RuleBase:RU361217}; EC=1.1.5.3 {ECO:0000256|RuleBase:RU361217};
+
+Gene Name:  7496.1}
+Entry Name:  Q5ZVM6_LEGPH
+Sequence length:  491
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Glycerol kinase {ECO:0000313|EMBL:AAU27496.1}; EC=2.7.1.30 {ECO:0000313|EMBL:AAU27496.1};
+
+Gene Name:  7497.1}
+Entry Name:  Q5ZVM5_LEGPH
+Sequence length:  423
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Citrate synthase {ECO:0000256|PIRNR:PIRNR001369};
+
+Gene Name:  7498.1}
+Entry Name:  Q5ZVM4_LEGPH
+Sequence length:  293
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Purine nucleoside phosphorylase II {ECO:0000313|EMBL:AAU27498.1}; EC=2.4.2.3 {ECO:0000313|EMBL:AAU27498.1};
+
+Gene Name:  7499.1}
+Entry Name:  Q5ZVM3_LEGPH
+Sequence length:  871
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=DNA gyrase subunit A {ECO:0000256|HAMAP-Rule:MF_01897}; EC=5.99.1.3 {ECO:0000256|HAMAP-Rule:MF_01897};
+
+Gene Name:  lpg1418
+Entry Name:  SERC_LEGPH
+Sequence length:  362
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Phosphoserine aminotransferase {ECO:0000255|HAMAP-Rule:MF_00160}; EC=2.6.1.52 {ECO:0000255|HAMAP-Rule:MF_00160}; AltName: Full=Phosphohydroxythreonine aminotransferase {ECO:0000255|HAMAP-Rule:MF_00160}; Short=PSAT {ECO:0000255|HAMAP-Rule:MF_00160};
+
+Gene Name:  lpg1419
+Entry Name:  AROA_LEGPH
+Sequence length:  433
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=3-phosphoshikimate 1-carboxyvinyltransferase {ECO:0000255|HAMAP-Rule:MF_00210}; EC=2.5.1.19 {ECO:0000255|HAMAP-Rule:MF_00210}; AltName: Full=5-enolpyruvylshikimate-3-phosphate synthase {ECO:0000255|HAMAP-Rule:MF_00210}; Short=EPSP synthase {ECO:0000255|HAMAP-Rule:MF_00210}; Short=EPSPS {ECO:0000255|HAMAP-Rule:MF_00210};
+
+Gene Name:  7502.1}
+Entry Name:  Q5ZVM0_LEGPH
+Sequence length:  231
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Cytidylate kinase {ECO:0000256|HAMAP-Rule:MF_00238, ECO:0000256|SAAS:SAAS00643703}; Short=CK {ECO:0000256|HAMAP-Rule:MF_00238}; EC=2.7.4.25 {ECO:0000256|HAMAP-Rule:MF_00238, ECO:0000256|SAAS:SAAS00643683}; AltName: Full=Cytidine monophosphate kinase {ECO:0000256|HAMAP-Rule:MF_00238};
+
+Gene Name:  7503.1}
+Entry Name:  Q5ZVL9_LEGPH
+Sequence length:  579
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=30S ribosomal protein S1 {ECO:0000256|PIRNR:PIRNR002111};
+
+Gene Name:  7504.1}
+Entry Name:  Q5ZVL8_LEGPH
+Sequence length:  96
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Hypothetical membrane protein {ECO:0000313|EMBL:AAU27504.1};
+
+Gene Name:  7505.1}
+Entry Name:  Q5ZVL7_LEGPH
+Sequence length:  389
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Lipopolysaccharide assembly protein B {ECO:0000256|HAMAP-Rule:MF_00994};
+
+Gene Name:  7506.1}
+Entry Name:  Q5ZVL6_LEGPH
+Sequence length:  371
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Aminotransferase {ECO:0000313|EMBL:AAU27506.1};
+
+Gene Name:  lpg1425
+Entry Name:  PYRF_LEGPH
+Sequence length:  229
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Orotidine 5'-phosphate decarboxylase {ECO:0000255|HAMAP-Rule:MF_01200}; EC=4.1.1.23 {ECO:0000255|HAMAP-Rule:MF_01200}; AltName: Full=OMP decarboxylase {ECO:0000255|HAMAP-Rule:MF_01200}; Short=OMPDCase {ECO:0000255|HAMAP-Rule:MF_01200}; Short=OMPdecase {ECO:0000255|HAMAP-Rule:MF_01200};
+
+Gene Name:  7508.1}
+Entry Name:  Q5ZVL4_LEGPH
+Sequence length:  884
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27508.1};
+
+Gene Name:  7509.1}
+Entry Name:  Q5ZVL3_LEGPH
+Sequence length:  259
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Short chain dehydrogenase {ECO:0000313|EMBL:AAU27509.1};
+
+Gene Name:  7510.1}
+Entry Name:  Q5ZVL2_LEGPH
+Sequence length:  162
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Tfp type 4 fimbrial pilin related signal peptide protein domain {ECO:0000313|EMBL:AAU27510.1};
+
+Gene Name:  7511.1}
+Entry Name:  Q5ZVL1_LEGPH
+Sequence length:  178
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27511.1};
+
+Gene Name:  lpg1430
+Entry Name:  UBIA_LEGPH
+Sequence length:  282
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=4-hydroxybenzoate octaprenyltransferase {ECO:0000255|HAMAP-Rule:MF_01635}; EC=2.5.1.- {ECO:0000255|HAMAP-Rule:MF_01635}; AltName: Full=4-HB polyprenyltransferase {ECO:0000255|HAMAP-Rule:MF_01635};
+
+Gene Name:  7513.1}
+Entry Name:  Q5ZVK9_LEGPH
+Sequence length:  132
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27513.1};
+
+Gene Name:  7514.1}
+Entry Name:  Q5ZVK8_LEGPH
+Sequence length:  598
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=FAD linked oxidase {ECO:0000313|EMBL:AAU27514.1};
+
+Gene Name:  7515.1}
+Entry Name:  Q5ZVK7_LEGPH
+Sequence length:  254
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Deoxyribose-phosphate aldolase {ECO:0000256|SAAS:SAAS00559180}; EC=4.1.2.4 {ECO:0000256|SAAS:SAAS00559180};
+
+Gene Name:  7516.1}
+Entry Name:  Q5ZVK6_LEGPH
+Sequence length:  279
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Purine nucleoside phosphorylase {ECO:0000256|PIRNR:PIRNR000477}; EC=2.4.2.1 {ECO:0000256|PIRNR:PIRNR000477}; AltName: Full=Inosine-guanosine phosphorylase {ECO:0000256|PIRNR:PIRNR000477};
+
+Gene Name:  7517.1}
+Entry Name:  Q5ZVK5_LEGPH
+Sequence length:  131
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:AAU27517.1}; EC=3.5.4.5 {ECO:0000313|EMBL:AAU27517.1};
+
+Gene Name:  7518.1}
+Entry Name:  Q5ZVK4_LEGPH
+Sequence length:  272
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27518.1};
+
+Gene Name:  7519.1}
+Entry Name:  Q5ZVK3_LEGPH
+Sequence length:  464
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Sensor histidine kinase CpxA {ECO:0000313|EMBL:AAU27519.1};
+
+Gene Name:  7520.1}
+Entry Name:  Q5ZVK2_LEGPH
+Sequence length:  226
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Transcriptional regulatory protein CpxR {ECO:0000313|EMBL:AAU27520.1};
+
+Gene Name:  7521.1}
+Entry Name:  Q5ZVK1_LEGPH
+Sequence length:  296
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Mg2+ and Co2+ transporter CorC {ECO:0000313|EMBL:AAU27521.1};
+
+Gene Name:  lpg1440
+Entry Name:  YBEY_LEGPH
+Sequence length:  158
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Endoribonuclease YbeY {ECO:0000255|HAMAP-Rule:MF_00009}; EC=3.1.-.- {ECO:0000255|HAMAP-Rule:MF_00009};
+
+Gene Name:  7523.1}
+Entry Name:  Q5ZVJ9_LEGPH
+Sequence length:  316
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Phosphate starvation-inducible protein PhoH {ECO:0000313|EMBL:AAU27523.1};
+
+Gene Name:  7524.1}
+Entry Name:  Q5ZVJ8_LEGPH
+Sequence length:  282
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Metal dependent phosphoesterase {ECO:0000313|EMBL:AAU27524.1};
+
+Gene Name:  7525.1}
+Entry Name:  Q5ZVJ7_LEGPH
+Sequence length:  221
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Translation factor {ECO:0000313|EMBL:AAU27525.1};
+
+Gene Name:  7526.1}
+Entry Name:  Q5ZVJ6_LEGPH
+Sequence length:  405
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Tryptophanyl tRNA synthetase {ECO:0000313|EMBL:AAU27526.1}; EC=6.1.1.2 {ECO:0000313|EMBL:AAU27526.1};
+
+Gene Name:  7527.1}
+Entry Name:  Q5ZVJ5_LEGPH
+Sequence length:  263
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Segregation and condensation protein A {ECO:0000256|SAAS:SAAS00093938};
+
+Gene Name:  7528.1}
+Entry Name:  Q5ZVJ4_LEGPH
+Sequence length:  196
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Segregation and condensation protein B {ECO:0000256|SAAS:SAAS00459865};
+
+Gene Name:  7529.1}
+Entry Name:  Q5ZVJ3_LEGPH
+Sequence length:  248
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Pseudouridine synthase {ECO:0000256|RuleBase:RU003887}; EC=5.4.99.- {ECO:0000256|RuleBase:RU003887};
+
+Gene Name:  7530.1}
+Entry Name:  Q5ZVJ2_LEGPH
+Sequence length:  261
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Transcription regulator protein, response regulator containing CheY-like receiver domain and HTH DNA-binding domain {ECO:0000313|EMBL:AAU27530.1};
+
+Gene Name:  7531.1}
+Entry Name:  Q5ZVJ1_LEGPH
+Sequence length:  870
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27531.1};
+
+Gene Name:  7532.1}
+Entry Name:  Q5ZVJ0_LEGPH
+Sequence length:  330
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Iron/ascorbate oxidoreductase family protein, putative {ECO:0000313|EMBL:AAU27532.1};
+
+Gene Name:  7533.1}
+Entry Name:  Q5ZVI9_LEGPH
+Sequence length:  103
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27533.1};
+
+Gene Name:  7534.1}
+Entry Name:  Q5ZVI8_LEGPH
+Sequence length:  295
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Lipase A {ECO:0000313|EMBL:AAU27534.1};
+
+Gene Name:  7535.1}
+Entry Name:  Q5ZVI7_LEGPH
+Sequence length:  172
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27535.1};
+
+Gene Name:  7536.1}
+Entry Name:  Q5ZVI6_LEGPH
+Sequence length:  461
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Multidrug efflux protein {ECO:0000313|EMBL:AAU27536.1};
+
+Gene Name:  7537.1}
+Entry Name:  Q5ZVI5_LEGPH
+Sequence length:  418
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Phospholipase C {ECO:0000313|EMBL:AAU27537.1};
+
+Gene Name:  lpg1456
+Entry Name:  RLMD_LEGPH
+Sequence length:  444
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD {ECO:0000255|HAMAP-Rule:MF_01010}; EC=2.1.1.190 {ECO:0000255|HAMAP-Rule:MF_01010}; AltName: Full=23S rRNA(m5U1939)-methyltransferase {ECO:0000255|HAMAP-Rule:MF_01010};
+
+Gene Name:  7539.1}
+Entry Name:  Q5ZVI3_LEGPH
+Sequence length:  734
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=GTP pyrophosphokinase ((P)ppGpp synthetase I) stringent stress response RelA {ECO:0000313|EMBL:AAU27539.1}; EC=2.7.6.5 {ECO:0000313|EMBL:AAU27539.1};
+
+Gene Name:  7540.1}
+Entry Name:  Q5ZVI2_LEGPH
+Sequence length:  121
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Hypothetical membrane protein {ECO:0000313|EMBL:AAU27540.1};
+
+Gene Name:  7541.1}
+Entry Name:  Q5ZVI1_LEGPH
+Sequence length:  397
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Aminotransferase {ECO:0000256|RuleBase:RU000481}; EC=2.6.1.- {ECO:0000256|RuleBase:RU000481};
+
+Gene Name:  7542.1}
+Entry Name:  Q5ZVI0_LEGPH
+Sequence length:  269
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27542.1};
+
+Gene Name:  7543.1}
+Entry Name:  Q5ZVH9_LEGPH
+Sequence length:  579
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Single stranded DNA specific exonuclease RecJ {ECO:0000313|EMBL:AAU27543.1}; EC=3.1.-.- {ECO:0000313|EMBL:AAU27543.1};
+
+Gene Name:  7544.1}
+Entry Name:  Q5ZVH8_LEGPH
+Sequence length:  334
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=tRNA-dihydrouridine synthase {ECO:0000256|PIRNR:PIRNR006621}; EC=1.3.1.- {ECO:0000256|PIRNR:PIRNR006621};
+
+Gene Name:  lpg1463
+Entry Name:  SECA_LEGPH
+Sequence length:  896
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Protein translocase subunit SecA {ECO:0000255|HAMAP-Rule:MF_01382};
+
+Gene Name:  7546.1}
+Entry Name:  Q5ZVH6_LEGPH
+Sequence length:  52
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27546.1};
+
+Gene Name:  7547.1}
+Entry Name:  Q5ZVH5_LEGPH
+Sequence length:  276
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27547.1};
+
+Gene Name:  7548.1}
+Entry Name:  Q5ZVH4_LEGPH
+Sequence length:  248
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Cell division protein ZapD {ECO:0000256|HAMAP-Rule:MF_01092, ECO:0000256|SAAS:SAAS00004483}; AltName: Full=Z ring-associated protein D {ECO:0000256|HAMAP-Rule:MF_01092};
+
+Gene Name:  lpg1467
+Entry Name:  COAE_LEGPH
+Sequence length:  201
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Dephospho-CoA kinase {ECO:0000255|HAMAP-Rule:MF_00376}; EC=2.7.1.24 {ECO:0000255|HAMAP-Rule:MF_00376}; AltName: Full=Dephosphocoenzyme A kinase {ECO:0000255|HAMAP-Rule:MF_00376};
+
+Gene Name:  7550.1}
+Entry Name:  Q5ZVH2_LEGPH
+Sequence length:  157
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27550.1};
+
+Gene Name:  7551.1}
+Entry Name:  Q5ZVH1_LEGPH
+Sequence length:  532
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Rtn protein {ECO:0000313|EMBL:AAU27551.1};
+
+Gene Name:  7552.1}
+Entry Name:  Q5ZVH0_LEGPH
+Sequence length:  553
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Serine-type D-Ala-D-Ala carboxypeptidase {ECO:0000313|EMBL:AAU27552.1}; EC=3.4.16.4 {ECO:0000313|EMBL:AAU27552.1};
+
+Gene Name:  7553.1}
+Entry Name:  Q5ZVG9_LEGPH
+Sequence length:  460
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Adenosylmethionine-8-amino-7-oxononanoate aminotransferase {ECO:0000313|EMBL:AAU27553.1}; EC=2.6.1.62 {ECO:0000313|EMBL:AAU27553.1};
+
+Gene Name:  lpg1472
+Entry Name:  BIOB_LEGPH
+Sequence length:  315
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Biotin synthase {ECO:0000255|HAMAP-Rule:MF_01694}; EC=2.8.1.6 {ECO:0000255|HAMAP-Rule:MF_01694};
+
+Gene Name:  7555.1}
+Entry Name:  Q5ZVG7_LEGPH
+Sequence length:  381
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=8-amino-7-oxononanoate synthase {ECO:0000313|EMBL:AAU27555.1}; EC=2.3.1.47 {ECO:0000313|EMBL:AAU27555.1};
+
+Gene Name:  lpg1474
+Entry Name:  BIOH_LEGPH
+Sequence length:  239
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Pimeloyl-[acyl-carrier protein] methyl ester esterase {ECO:0000255|HAMAP-Rule:MF_01260}; EC=3.1.1.85 {ECO:0000255|HAMAP-Rule:MF_01260}; AltName: Full=Biotin synthesis protein BioH {ECO:0000255|HAMAP-Rule:MF_01260}; AltName: Full=Carboxylesterase BioH {ECO:0000255|HAMAP-Rule:MF_01260};
+
+Gene Name:  lpg1475
+Entry Name:  BIOD_LEGPH
+Sequence length:  212
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=ATP-dependent dethiobiotin synthetase BioD {ECO:0000255|HAMAP-Rule:MF_00336}; EC=6.3.3.3 {ECO:0000255|HAMAP-Rule:MF_00336}; AltName: Full=DTB synthetase {ECO:0000255|HAMAP-Rule:MF_00336}; Short=DTBS {ECO:0000255|HAMAP-Rule:MF_00336}; AltName: Full=Dethiobiotin synthase {ECO:0000255|HAMAP-Rule:MF_00336};
+
+Gene Name:  7558.1}
+Entry Name:  Q5ZVG4_LEGPH
+Sequence length:  104
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27558.1};
+
+Gene Name:  7559.1}
+Entry Name:  Q5ZVG3_LEGPH
+Sequence length:  209
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Transmembrane protein {ECO:0000313|EMBL:AAU27559.1};
+
+Gene Name:  lpg1478
+Entry Name:  SYDND_LEGPH
+Sequence length:  593
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Aspartate--tRNA(Asp/Asn) ligase {ECO:0000255|HAMAP-Rule:MF_00044}; EC=6.1.1.23 {ECO:0000255|HAMAP-Rule:MF_00044}; AltName: Full=Aspartyl-tRNA synthetase {ECO:0000255|HAMAP-Rule:MF_00044}; Short=AspRS {ECO:0000255|HAMAP-Rule:MF_00044}; AltName: Full=Non-discriminating aspartyl-tRNA synthetase {ECO:0000255|HAMAP-Rule:MF_00044}; Short=ND-AspRS {ECO:0000255|HAMAP-Rule:MF_00044};
+
+Gene Name:  7561.1}
+Entry Name:  Q5ZVG1_LEGPH
+Sequence length:  982
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Potassium efflux system KefA {ECO:0000313|EMBL:AAU27561.1};
+
+Gene Name:  7562.1}
+Entry Name:  Q5ZVG0_LEGPH
+Sequence length:  223
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=DNA mismatch repair protein MutH {ECO:0000256|HAMAP-Rule:MF_00759, ECO:0000256|SAAS:SAAS00644402}; AltName: Full=Methyl-directed mismatch repair protein {ECO:0000256|HAMAP-Rule:MF_00759};
+
+Gene Name:  7563.1}
+Entry Name:  Q5ZVF9_LEGPH
+Sequence length:  346
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27563.1};
+
+Gene Name:  7564.1}
+Entry Name:  Q5ZVF8_LEGPH
+Sequence length:  278
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27564.1};
+
+Gene Name:  7565.1}
+Entry Name:  Q5ZVF7_LEGPH
+Sequence length:  529
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Serine/threonine-protein kinase {ECO:0000313|EMBL:AAU27565.1}; EC=2.7.1.- {ECO:0000313|EMBL:AAU27565.1};
+
+Gene Name:  7566.1}
+Entry Name:  Q5ZVF6_LEGPH
+Sequence length:  269
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27566.1};
+
+Gene Name:  7567.1}
+Entry Name:  Q5ZVF5_LEGPH
+Sequence length:  133
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27567.1};
+
+Gene Name:  7568.1}
+Entry Name:  Q5ZVF4_LEGPH
+Sequence length:  173
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=AsnC family transcription regulator protein {ECO:0000313|EMBL:AAU27568.1};
+
+Gene Name:  7569.1}
+Entry Name:  Q5ZVF3_LEGPH
+Sequence length:  176
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:AAU27569.1};
+
+Gene Name:  7570.1}
+Entry Name:  Q5ZVF2_LEGPH
+Sequence length:  865
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Coiled-coil-containing protein {ECO:0000313|EMBL:AAU27570.1};
+
+Gene Name:  7571.1}
+Entry Name:  Q5ZVF1_LEGPH
+Sequence length:  343
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27571.1};
+
+Gene Name:  7572.1}
+Entry Name:  Q5ZVF0_LEGPH
+Sequence length:  441
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Adenylate cyclase PLUS two component hybrid sensor and regulator {ECO:0000313|EMBL:AAU27572.1}; EC=4.6.1.1 {ECO:0000313|EMBL:AAU27572.1};
+
+Gene Name:  7573.1}
+Entry Name:  Q5ZVE9_LEGPH
+Sequence length:  413
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27573.1};
+
+Gene Name:  7574.1}
+Entry Name:  Q5ZVE8_LEGPH
+Sequence length:  340
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Spectinomycin phosphotransferase {ECO:0000313|EMBL:AAU27574.1};
+
+Gene Name:  7575.1}
+Entry Name:  Q5ZVE7_LEGPH
+Sequence length:  72
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27575.1};
+
+Gene Name:  7576.1}
+Entry Name:  Q5ZVE6_LEGPH
+Sequence length:  140
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27576.1};
+
+Gene Name:  7577.1}
+Entry Name:  Q5ZVE5_LEGPH
+Sequence length:  97
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27577.1};
+
+Gene Name:  7578.1}
+Entry Name:  Q5ZVE4_LEGPH
+Sequence length:  598
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27578.1};
+
+Gene Name:  7579.1}
+Entry Name:  Q5ZVE3_LEGPH
+Sequence length:  900
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Aminopeptidase N {ECO:0000313|EMBL:AAU27579.1}; EC=3.4.11.2 {ECO:0000313|EMBL:AAU27579.1};
+
+Gene Name:  7580.1}
+Entry Name:  Q5ZVE2_LEGPH
+Sequence length:  312
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27580.1};
+
+Gene Name:  7581.1}
+Entry Name:  Q5ZVE1_LEGPH
+Sequence length:  180
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27581.1};
+
+Gene Name:  7582.1}
+Entry Name:  Q5ZVE0_LEGPH
+Sequence length:  233
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Oxidoreductase, short chain dehydrogenase/reductase {ECO:0000313|EMBL:AAU27582.1};
+
+Gene Name:  7583.1}
+Entry Name:  Q5ZVD9_LEGPH
+Sequence length:  154
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Ribosomal-protein-alanine acetyltransferase {ECO:0000256|RuleBase:RU363094}; EC=2.3.1.128 {ECO:0000256|RuleBase:RU363094};
+
+Gene Name:  7584.1}
+Entry Name:  Q5ZVD8_LEGPH
+Sequence length:  479
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Dihydrolipoyl dehydrogenase {ECO:0000256|RuleBase:RU003692}; EC=1.8.1.4 {ECO:0000256|RuleBase:RU003692};
+
+Gene Name:  7585.1}
+Entry Name:  Q5ZVD7_LEGPH
+Sequence length:  550
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Acetyltransferase component of pyruvate dehydrogenase complex {ECO:0000256|RuleBase:RU361137}; EC=2.3.1.12 {ECO:0000256|RuleBase:RU361137};
+
+Gene Name:  7586.1}
+Entry Name:  Q5ZVD6_LEGPH
+Sequence length:  893
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Pyruvate dehydrogenase E1 component {ECO:0000256|PIRNR:PIRNR000156}; EC=1.2.4.1 {ECO:0000256|PIRNR:PIRNR000156};
+
+Gene Name:  7587.1}
+Entry Name:  Q5ZVD5_LEGPH
+Sequence length:  129
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27587.1};
+
+Gene Name:  7588.1}
+Entry Name:  Q5ZVD4_LEGPH
+Sequence length:  259
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Inner membrane protein AmpE {ECO:0000313|EMBL:AAU27588.1};
+
+Gene Name:  7589.1}
+Entry Name:  Q5ZVD3_LEGPH
+Sequence length:  390
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Sodium/hydrogen antiporter {ECO:0000313|EMBL:AAU27589.1};
+
+Gene Name:  7590.1}
+Entry Name:  Q5ZVD2_LEGPH
+Sequence length:  273
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Rare lipoprotein A {ECO:0000313|EMBL:AAU27590.1};
+
+Gene Name:  7591.1}
+Entry Name:  Q5ZVD1_LEGPH
+Sequence length:  430
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=D-alanyl-D-alanine carboxypeptidase {ECO:0000313|EMBL:AAU27591.1}; EC=3.4.16.4 {ECO:0000313|EMBL:AAU27591.1};
+
+Gene Name:  7592.1}
+Entry Name:  Q5ZVD0_LEGPH
+Sequence length:  278
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=D-alanine-aminotransferase {ECO:0000313|EMBL:AAU27592.1}; EC=2.6.1.21 {ECO:0000313|EMBL:AAU27592.1};
+
+Gene Name:  lpg1511
+Entry Name:  LIPB_LEGPH
+Sequence length:  199
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Octanoyltransferase {ECO:0000255|HAMAP-Rule:MF_00013}; EC=2.3.1.181 {ECO:0000255|HAMAP-Rule:MF_00013}; AltName: Full=Lipoate-protein ligase B {ECO:0000255|HAMAP-Rule:MF_00013}; AltName: Full=Lipoyl/octanoyl transferase {ECO:0000255|HAMAP-Rule:MF_00013}; AltName: Full=Octanoyl-[acyl-carrier-protein]-protein N-octanoyltransferase {ECO:0000255|HAMAP-Rule:MF_00013};
+
+Gene Name:  7594.1}
+Entry Name:  Q5ZVC8_LEGPH
+Sequence length:  678
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=DedA/PAP2 domain protein {ECO:0000313|EMBL:AAU27594.1};
+
+Gene Name:  7595.1}
+Entry Name:  Q5ZVC7_LEGPH
+Sequence length:  204
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Type I secretion system LssZ {ECO:0000313|EMBL:AAU27595.1};
+
+Gene Name:  7596.1}
+Entry Name:  Q5ZVC6_LEGPH
+Sequence length:  243
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Lipoprotein {ECO:0000313|EMBL:AAU27596.1};
+
+Gene Name:  7597.1}
+Entry Name:  Q5ZVC5_LEGPH
+Sequence length:  543
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Toxin secretion ATP binding protein {ECO:0000313|EMBL:AAU27597.1};
+
+Gene Name:  7598.1}
+Entry Name:  Q5ZVC4_LEGPH
+Sequence length:  193
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=ABC transporter, ATP binding/permease fusion protein {ECO:0000313|EMBL:AAU27598.1};
+
+Gene Name:  7599.1}
+Entry Name:  Q5ZVC3_LEGPH
+Sequence length:  378
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=HlyD family secretion protein {ECO:0000313|EMBL:AAU27599.1};
+
+Gene Name:  7600.1}
+Entry Name:  Q5ZVC2_LEGPH
+Sequence length:  849
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Sensory box protein/GGDEF domain/EAL domain {ECO:0000313|EMBL:AAU27600.1};
+
+Gene Name:  7601.1}
+Entry Name:  Q5ZVC1_LEGPH
+Sequence length:  189
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Purine/pyrimidine phosphoribosyltransferase {ECO:0000313|EMBL:AAU27601.1}; EC=2.4.2.8 {ECO:0000313|EMBL:AAU27601.1};
+
+Gene Name:  7602.1}
+Entry Name:  Q5ZVC0_LEGPH
+Sequence length:  108
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27602.1};
+
+Gene Name:  7603.1}
+Entry Name:  Q5ZVB9_LEGPH
+Sequence length:  247
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Generic methyl-transferase {ECO:0000313|EMBL:AAU27603.1};
+
+Gene Name:  7604.1}
+Entry Name:  Q5ZVB8_LEGPH
+Sequence length:  574
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=(Type IV) pilus assembly protein PilB {ECO:0000313|EMBL:AAU27604.1};
+
+Gene Name:  7605.1}
+Entry Name:  Q5ZVB7_LEGPH
+Sequence length:  406
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=(Type IV) pilus assembly protein PilC {ECO:0000313|EMBL:AAU27605.1};
+
+Gene Name:  7606.1}
+Entry Name:  Q5ZVB6_LEGPH
+Sequence length:  289
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Type 4 prepilin-like proteins leader peptide-processing enzyme {ECO:0000256|RuleBase:RU003794}; EC=2.1.1.- {ECO:0000256|RuleBase:RU003794}; EC=3.4.23.43 {ECO:0000256|RuleBase:RU003794};
+
+Gene Name:  7607.1}
+Entry Name:  Q5ZVB5_LEGPH
+Sequence length:  412
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=CAAX amino terminal protease family protein {ECO:0000313|EMBL:AAU27607.1};
+
+Gene Name:  7608.1}
+Entry Name:  Q5ZVB4_LEGPH
+Sequence length:  197
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27608.1};
+
+Gene Name:  7609.1}
+Entry Name:  Q5ZVB3_LEGPH
+Sequence length:  151
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27609.1};
+
+Gene Name:  lpg1528
+Entry Name:  PSRP_LEGPH
+Sequence length:  271
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Putative phosphoenolpyruvate synthase regulatory protein {ECO:0000255|HAMAP-Rule:MF_01062}; Short=PEP synthase regulatory protein {ECO:0000255|HAMAP-Rule:MF_01062}; Short=PSRP {ECO:0000255|HAMAP-Rule:MF_01062}; EC=2.7.11.33 {ECO:0000255|HAMAP-Rule:MF_01062}; EC=2.7.4.28 {ECO:0000255|HAMAP-Rule:MF_01062}; AltName: Full=Pyruvate, water dikinase regulatory protein {ECO:0000255|HAMAP-Rule:MF_01062};
+
+Gene Name:  7611.1}
+Entry Name:  Q5ZVB1_LEGPH
+Sequence length:  490
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=2-methylcitrate dehydratase PrpD {ECO:0000313|EMBL:AAU27611.1}; EC=4.2.1.79 {ECO:0000313|EMBL:AAU27611.1};
+
+Gene Name:  7612.1}
+Entry Name:  Q5ZVB0_LEGPH
+Sequence length:  372
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Citrate synthase {ECO:0000256|PIRNR:PIRNR001369};
+
+Gene Name:  7613.1}
+Entry Name:  Q5ZVA9_LEGPH
+Sequence length:  263
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Phenazine biosynthesis PhzF {ECO:0000313|EMBL:AAU27613.1};
+
+Gene Name:  lpg1532
+Entry Name:  MNMC_LEGPH
+Sequence length:  666
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC {ECO:0000255|HAMAP-Rule:MF_01102}; Short=tRNA mnm(5)s(2)U biosynthesis bifunctional protein {ECO:0000255|HAMAP-Rule:MF_01102}; Includes: RecName: Full=tRNA (mnm(5)s(2)U34)-methyltransferase {ECO:0000255|HAMAP-Rule:MF_01102}; EC=2.1.1.61 {ECO:0000255|HAMAP-Rule:MF_01102}; Includes: RecName: Full=FAD-dependent cmnm(5)s(2)U34 oxidoreductase {ECO:0000255|HAMAP-Rule:MF_01102}; EC=1.5.-.- {ECO:0000255|HAMAP-Rule:MF_01102};
+
+Gene Name:  7615.1}
+Entry Name:  Q5ZVA7_LEGPH
+Sequence length:  538
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Peptide transport protein, POT family {ECO:0000313|EMBL:AAU27615.1};
+
+Gene Name:  lpg1534
+Entry Name:  GSA_LEGPH
+Sequence length:  429
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Glutamate-1-semialdehyde 2,1-aminomutase {ECO:0000255|HAMAP-Rule:MF_00375}; Short=GSA {ECO:0000255|HAMAP-Rule:MF_00375}; EC=5.4.3.8 {ECO:0000255|HAMAP-Rule:MF_00375}; AltName: Full=Glutamate-1-semialdehyde aminotransferase {ECO:0000255|HAMAP-Rule:MF_00375}; Short=GSA-AT {ECO:0000255|HAMAP-Rule:MF_00375};
+
+Gene Name:  7617.1}
+Entry Name:  Q5ZVA5_LEGPH
+Sequence length:  58
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Rubredoxin {ECO:0000256|PIRNR:PIRNR000071};
+
+Gene Name:  7618.1}
+Entry Name:  Q5ZVA4_LEGPH
+Sequence length:  140
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Transmembrane protein {ECO:0000313|EMBL:AAU27618.1};
+
+Gene Name:  7619.1}
+Entry Name:  Q5ZVA3_LEGPH
+Sequence length:  243
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Transport protein {ECO:0000313|EMBL:AAU27619.1};
+
+Gene Name:  7620.1}
+Entry Name:  Q5ZVA2_LEGPH
+Sequence length:  436
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Poly(A) polymerase I {ECO:0000256|HAMAP-Rule:MF_00957}; Short=PAP I {ECO:0000256|HAMAP-Rule:MF_00957}; EC=2.7.7.19 {ECO:0000256|HAMAP-Rule:MF_00957};
+
+Gene Name:  7621.1}
+Entry Name:  Q5ZVA1_LEGPH
+Sequence length:  141
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase FolK {ECO:0000313|EMBL:AAU27621.1}; EC=2.7.6.3 {ECO:0000313|EMBL:AAU27621.1};
+
+Gene Name:  7622.1}
+Entry Name:  Q5ZVA0_LEGPH
+Sequence length:  140
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Universal stress protein {ECO:0000256|PIRNR:PIRNR006276};
+
+Gene Name:  lpg1541
+Entry Name:  DER_LEGPH
+Sequence length:  462
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=GTPase Der {ECO:0000255|HAMAP-Rule:MF_00195}; AltName: Full=GTP-binding protein EngA {ECO:0000255|HAMAP-Rule:MF_00195};
+
+Gene Name:  7624.1}
+Entry Name:  Q5ZV98_LEGPH
+Sequence length:  387
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Outer membrane protein assembly factor BamB {ECO:0000256|HAMAP-Rule:MF_00923}; Flags: Precursor;
+
+Gene Name:  7625.1}
+Entry Name:  Q5ZV97_LEGPH
+Sequence length:  224
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Transmembrane protein {ECO:0000313|EMBL:AAU27625.1};
+
+Gene Name:  lpg1544
+Entry Name:  SYH_LEGPH
+Sequence length:  426
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Histidine--tRNA ligase {ECO:0000255|HAMAP-Rule:MF_00127}; EC=6.1.1.21 {ECO:0000255|HAMAP-Rule:MF_00127}; AltName: Full=Histidyl-tRNA synthetase {ECO:0000255|HAMAP-Rule:MF_00127}; Short=HisRS {ECO:0000255|HAMAP-Rule:MF_00127};
+
+Gene Name:  7627.1}
+Entry Name:  Q5ZV95_LEGPH
+Sequence length:  189
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=DNA-binding protein, putative {ECO:0000313|EMBL:AAU27627.1};
+
+Gene Name:  7628.1}
+Entry Name:  Q5ZV94_LEGPH
+Sequence length:  260
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Fimbrial biogenesis and twitching motility protein PilF {ECO:0000313|EMBL:AAU27628.1};
+
+Gene Name:  lpg1547
+Entry Name:  RLMN_LEGPH
+Sequence length:  382
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Dual-specificity RNA methyltransferase RlmN {ECO:0000255|HAMAP-Rule:MF_01849}; EC=2.1.1.192 {ECO:0000255|HAMAP-Rule:MF_01849}; AltName: Full=23S rRNA (adenine(2503)-C(2))-methyltransferase {ECO:0000255|HAMAP-Rule:MF_01849}; AltName: Full=23S rRNA m2A2503 methyltransferase {ECO:0000255|HAMAP-Rule:MF_01849}; AltName: Full=Ribosomal RNA large subunit methyltransferase N {ECO:0000255|HAMAP-Rule:MF_01849}; AltName: Full=tRNA (adenine(37)-C(2))-methyltransferase {ECO:0000255|HAMAP-Rule:MF_01849}; AltName: Full=tRNA m2A37 methyltransferase {ECO:0000255|HAMAP-Rule:MF_01849};
+
+Gene Name:  lpg1548
+Entry Name:  NDK_LEGPH
+Sequence length:  141
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Nucleoside diphosphate kinase {ECO:0000255|HAMAP-Rule:MF_00451}; Short=NDK {ECO:0000255|HAMAP-Rule:MF_00451}; Short=NDP kinase {ECO:0000255|HAMAP-Rule:MF_00451}; EC=2.7.4.6 {ECO:0000255|HAMAP-Rule:MF_00451}; AltName: Full=Nucleoside-2-P kinase {ECO:0000255|HAMAP-Rule:MF_00451};
+
+Gene Name:  7631.1}
+Entry Name:  Q5ZV91_LEGPH
+Sequence length:  294
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27631.1};
+
+Gene Name:  7632.1}
+Entry Name:  Q5ZV90_LEGPH
+Sequence length:  211
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=tRNA-(Ms(2)io(6)a)-hydrolase(TRNA hydroxylase) {ECO:0000313|EMBL:AAU27632.1};
+
+Gene Name:  7633.1}
+Entry Name:  Q5ZV89_LEGPH
+Sequence length:  248
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27633.1};
+
+Gene Name:  7634.1}
+Entry Name:  Q5ZV88_LEGPH
+Sequence length:  242
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=UDP-2,3-diacylglucosamine hydrolase {ECO:0000256|HAMAP-Rule:MF_00575, ECO:0000256|SAAS:SAAS00645919}; EC=3.6.1.54 {ECO:0000256|HAMAP-Rule:MF_00575, ECO:0000256|SAAS:SAAS00645932}; AltName: Full=UDP-2,3-diacylglucosamine diphosphatase {ECO:0000256|HAMAP-Rule:MF_00575};
+
+Gene Name:  7635.1}
+Entry Name:  Q5ZV87_LEGPH
+Sequence length:  236
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Probable septum site-determining protein MinC {ECO:0000256|HAMAP-Rule:MF_00267};
+
+Gene Name:  7636.1}
+Entry Name:  Q5ZV86_LEGPH
+Sequence length:  569
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Long chain fatty acid-CoA ligase {ECO:0000313|EMBL:AAU27636.1}; EC=6.2.1.3 {ECO:0000313|EMBL:AAU27636.1};
+
+Gene Name:  7637.1}
+Entry Name:  Q5ZV85_LEGPH
+Sequence length:  245
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Arginine 3rd transport system periplasmic binding protein {ECO:0000313|EMBL:AAU27637.1};
+
+Gene Name:  7638.1}
+Entry Name:  Q5ZV84_LEGPH
+Sequence length:  135
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=MutT/nudix family protein {ECO:0000313|EMBL:AAU27638.1};
+
+Gene Name:  7639.1}
+Entry Name:  Q5ZV83_LEGPH
+Sequence length:  440
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Para-aminobenzoate synthase, component I {ECO:0000313|EMBL:AAU27639.1}; EC=4.1.3.- {ECO:0000313|EMBL:AAU27639.1};
+
+Gene Name:  7640.1}
+Entry Name:  Q5ZV82_LEGPH
+Sequence length:  364
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Pyruvate dehydrogenase E1 alpha subunit {ECO:0000313|EMBL:AAU27640.1}; EC=1.2.4.1 {ECO:0000313|EMBL:AAU27640.1};
+
+Gene Name:  7641.1}
+Entry Name:  Q5ZV81_LEGPH
+Sequence length:  324
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Pyruvate dehydrogenase E1 beta subunit {ECO:0000313|EMBL:AAU27641.1}; EC=1.2.4.1 {ECO:0000313|EMBL:AAU27641.1};
+
+Gene Name:  7642.1}
+Entry Name:  Q5ZV80_LEGPH
+Sequence length:  370
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex {ECO:0000256|RuleBase:RU003423}; EC=2.3.1.- {ECO:0000256|RuleBase:RU003423};
+
+Gene Name:  7643.1}
+Entry Name:  Q5ZV79_LEGPH
+Sequence length:  739
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Potassium efflux system KefA {ECO:0000313|EMBL:AAU27643.1};
+
+Gene Name:  7644.1}
+Entry Name:  Q5ZV78_LEGPH
+Sequence length:  714
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Mercuric reductase {ECO:0000313|EMBL:AAU27644.1}; EC=1.16.1.1 {ECO:0000313|EMBL:AAU27644.1};
+
+Gene Name:  7645.1}
+Entry Name:  Q5ZV77_LEGPH
+Sequence length:  239
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27645.1};
+
+Gene Name:  7646.1}
+Entry Name:  Q5ZV76_LEGPH
+Sequence length:  247
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Integral membrane protein {ECO:0000313|EMBL:AAU27646.1};
+
+Gene Name:  7647.1}
+Entry Name:  Q5ZV75_LEGPH
+Sequence length:  316
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Thiamine biosynthesis protein NMT-1 {ECO:0000313|EMBL:AAU27647.1};
+
+Gene Name:  7648.1}
+Entry Name:  Q5ZV74_LEGPH
+Sequence length:  356
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Thiamine biosynthesis oxidoreductase ThiO {ECO:0000313|EMBL:AAU27648.1};
+
+Gene Name:  7649.1}
+Entry Name:  Q5ZV73_LEGPH
+Sequence length:  263
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Thiazole synthase {ECO:0000256|HAMAP-Rule:MF_00443, ECO:0000256|SAAS:SAAS00623244}; EC=2.8.1.10 {ECO:0000256|HAMAP-Rule:MF_00443, ECO:0000256|SAAS:SAAS00623240};
+
+Gene Name:  7650.1}
+Entry Name:  Q5ZV72_LEGPH
+Sequence length:  495
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Phosphomethylpyrimidine kinase ThiD/thiamin-phosphate pyrophosphorylase fused protein ThiE {ECO:0000313|EMBL:AAU27650.1};
+
+Gene Name:  7651.1}
+Entry Name:  Q5ZV71_LEGPH
+Sequence length:  379
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Sulfurylase ThiF {ECO:0000313|EMBL:AAU27651.1};
+
+Gene Name:  7652.1}
+Entry Name:  Q5ZV70_LEGPH
+Sequence length:  285
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=3'-nucleotidase/nuclease {ECO:0000313|EMBL:AAU27652.1};
+
+Gene Name:  lpg1571
+Entry Name:  TOLB_LEGPH
+Sequence length:  419
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Protein TolB {ECO:0000255|HAMAP-Rule:MF_00671}; Flags: Precursor;
+
+Gene Name:  7654.1}
+Entry Name:  Q5ZV68_LEGPH
+Sequence length:  332
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=TolA colicin import membrane protein {ECO:0000313|EMBL:AAU27654.1};
+
+Gene Name:  7655.1}
+Entry Name:  Q5ZV67_LEGPH
+Sequence length:  151
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Biopolymer transport protein TolR {ECO:0000313|EMBL:AAU27655.1};
+
+Gene Name:  7656.1}
+Entry Name:  Q5ZV66_LEGPH
+Sequence length:  229
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Biopolymer transport protein TolQ {ECO:0000313|EMBL:AAU27656.1};
+
+Gene Name:  7657.1}
+Entry Name:  Q5ZV65_LEGPH
+Sequence length:  131
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Esterase {ECO:0000313|EMBL:AAU27657.1};
+
+Gene Name:  lpg1576
+Entry Name:  RUVB_LEGPH
+Sequence length:  336
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Holliday junction ATP-dependent DNA helicase RuvB {ECO:0000255|HAMAP-Rule:MF_00016}; EC=3.6.4.12 {ECO:0000255|HAMAP-Rule:MF_00016};
+
+Gene Name:  7659.1}
+Entry Name:  Q5ZV63_LEGPH
+Sequence length:  187
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=RNA polymerase sigma E factor RpoE {ECO:0000313|EMBL:AAU27659.1};
+
+Gene Name:  7660.1}
+Entry Name:  Q5ZV62_LEGPH
+Sequence length:  149
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27660.1};
+
+Gene Name:  7661.1}
+Entry Name:  Q5ZV61_LEGPH
+Sequence length:  352
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Glycine cleavage T protein {ECO:0000313|EMBL:AAU27661.1};
+
+Gene Name:  7662.1}
+Entry Name:  Q5ZV60_LEGPH
+Sequence length:  182
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Cytochrome b-561 transmembrane protein {ECO:0000313|EMBL:AAU27662.1};
+
+Gene Name:  7663.1}
+Entry Name:  Q5ZV59_LEGPH
+Sequence length:  1625
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=NAD-glutamate dehydrogenase {ECO:0000313|EMBL:AAU27663.1};
+
+Gene Name:  7664.1}
+Entry Name:  Q5ZV58_LEGPH
+Sequence length:  146
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27664.1};
+
+Gene Name:  7665.1}
+Entry Name:  Q5ZV57_LEGPH
+Sequence length:  462
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Succinate semialdehyde dehyrogenase (NADP+) {ECO:0000313|EMBL:AAU27665.1}; EC=1.2.1.16 {ECO:0000313|EMBL:AAU27665.1};
+
+Gene Name:  lpg1584
+Entry Name:  PCS_LEGPH
+Sequence length:  255
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Phosphatidylcholine synthase {ECO:0000303|PubMed:14663079}; Short=PC synthase {ECO:0000250|UniProtKB:Q9KJY8}; Short=PCS {ECO:0000303|PubMed:14663079}; EC=2.7.8.24 {ECO:0000269|PubMed:14663079, ECO:0000269|PubMed:17979985, ECO:0000312|EMBL:AAU27666.1}; AltName: Full=CDP-diglyceride-choline O-phosphatidyltransferase {ECO:0000250|UniProtKB:Q9KJY8, ECO:0000312|EMBL:AAU27666.1};
+
+Gene Name:  7667.1}
+Entry Name:  Q5ZV55_LEGPH
+Sequence length:  162
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27667.1};
+
+Gene Name:  7668.1}
+Entry Name:  Q5ZV54_LEGPH
+Sequence length:  125
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27668.1};
+
+Gene Name:  7669.1}
+Entry Name:  Q5ZV53_LEGPH
+Sequence length:  185
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Hypothetical thiol-disulfide isomerase and thioredoxins family {ECO:0000313|EMBL:AAU27669.1};
+
+Gene Name:  7670.1}
+Entry Name:  Q5ZV52_LEGPH
+Sequence length:  672
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Coiled-coil-containing protein {ECO:0000313|EMBL:AAU27670.1};
+
+Gene Name:  lpg1589
+Entry Name:  RL9_LEGPH
+Sequence length:  149
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=50S ribosomal protein L9 {ECO:0000255|HAMAP-Rule:MF_00503};
+
+Gene Name:  7672.1}
+Entry Name:  Q5ZV50_LEGPH
+Sequence length:  315
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Membrane protein {ECO:0000313|EMBL:AAU27672.1};
+
+Gene Name:  lpg1591
+Entry Name:  RS18_LEGPH
+Sequence length:  75
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=30S ribosomal protein S18 {ECO:0000255|HAMAP-Rule:MF_00270};
+
+Gene Name:  lpg1592
+Entry Name:  RS6_LEGPH
+Sequence length:  112
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=30S ribosomal protein S6 {ECO:0000255|HAMAP-Rule:MF_00360};
+
+Gene Name:  7675.1}
+Entry Name:  Q5ZV47_LEGPH
+Sequence length:  65
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Carbon storage regulator CsrA {ECO:0000313|EMBL:AAU27675.1};
+
+Gene Name:  7676.1}
+Entry Name:  Q5ZV46_LEGPH
+Sequence length:  296
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27676.1};
+
+Gene Name:  7677.1}
+Entry Name:  Q5ZV45_LEGPH
+Sequence length:  244
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27677.1};
+
+Gene Name:  7678.1}
+Entry Name:  Q5ZV44_LEGPH
+Sequence length:  672
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Enoyl CoA hydratase {ECO:0000313|EMBL:AAU27678.1};
+
+Gene Name:  7679.1}
+Entry Name:  Q5ZV43_LEGPH
+Sequence length:  439
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Thiolase {ECO:0000313|EMBL:AAU27679.1}; EC=2.3.1.16 {ECO:0000313|EMBL:AAU27679.1};
+
+Gene Name:  7680.1}
+Entry Name:  Q5ZV42_LEGPH
+Sequence length:  353
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27680.1};
+
+Gene Name:  7681.1}
+Entry Name:  Q5ZV41_LEGPH
+Sequence length:  68
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27681.1};
+
+Gene Name:  7682.1}
+Entry Name:  Q5ZV40_LEGPH
+Sequence length:  428
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Leucine-rich repeat-containing protein {ECO:0000313|EMBL:AAU27682.1};
+
+Gene Name:  7683.1}
+Entry Name:  Q5ZV39_LEGPH
+Sequence length:  474
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27683.1};
+
+Gene Name:  7684.1}
+Entry Name:  Q5ZV38_LEGPH
+Sequence length:  225
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27684.1};
+
+Gene Name:  7685.1}
+Entry Name:  Q5ZV37_LEGPH
+Sequence length:  159
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27685.1};
+
+Gene Name:  7686.1}
+Entry Name:  Q5ZV36_LEGPH
+Sequence length:  219
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAU27686.1};
+
+Gene Name:  7687.1}
+Entry Name:  Q5ZV35_LEGPH
+Sequence length:  775
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Phosphoenolpyruvate carboxylase {ECO:0000256|SAAS:SAAS00635171}; EC=4.1.1.31 {ECO:0000256|SAAS:SAAS00635171};
+
+Gene Name:  7688.1}
+Entry Name:  Q5ZV34_LEGPH
+Sequence length:  160
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=MutT/nudix family protein {ECO:0000313|EMBL:AAU27688.1};
+
+Gene Name:  lpg1609
+Entry Name:  PROA_LEGPH
+Sequence length:  417
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Gamma-glutamyl phosphate reductase {ECO:0000255|HAMAP-Rule:MF_00412}; Short=GPR {ECO:0000255|HAMAP-Rule:MF_00412}; EC=1.2.1.41 {ECO:0000255|HAMAP-Rule:MF_00412}; AltName: Full=Glutamate-5-semialdehyde dehydrogenase {ECO:0000255|HAMAP-Rule:MF_00412}; AltName: Full=Glutamyl-gamma-semialdehyde dehydrogenase {ECO:0000255|HAMAP-Rule:MF_00412}; Short=GSA dehydrogenase {ECO:0000255|HAMAP-Rule:MF_00412};
+
+Gene Name:  7690.1}
+Entry Name:  Q5ZV32_LEGPH
+Sequence length:  356
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  RecName: Full=Glutamate 5-kinase {ECO:0000256|HAMAP-Rule:MF_00456, ECO:0000256|SAAS:SAAS00644440}; EC=2.7.2.11 {ECO:0000256|HAMAP-Rule:MF_00456, ECO:0000256|SAAS:SAAS00644440}; AltName: Full=Gamma-glutamyl kinase {ECO:0000256|HAMAP-Rule:MF_00456};
+
+Gene Name:  7691.1}
+Entry Name:  Q5ZV31_LEGPH
+Sequence length:  315
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Transcriptional regulator, MerR family, mercury resistance {ECO:0000313|EMBL:AAU27691.1};
+
+Gene Name:  7692.1}
+Entry Name:  Q5ZV30_LEGPH
+Sequence length:  250
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Transcriptional regulator SkgA, mercury resistance {ECO:0000313|EMBL:AAU27692.1};
+
+Gene Name:  7693.1}
+Entry Name:  Q5ZV29_LEGPH
+Sequence length:  175
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:AAU27693.1};
+
+Gene Name:  7694.1}
+Entry Name:  Q5ZV28_LEGPH
+Sequence length:  318
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Glutamate rich protein GrpB {ECO:0000313|EMBL:AAU27694.1};
+
+Gene Name:  7695.1}
+Entry Name:  Q5ZV27_LEGPH
+Sequence length:  593
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Multidrug resistance ABC transporter ATP binding protein {ECO:0000313|EMBL:AAU27695.1};
+
+Gene Name:  7696.1}
+Entry Name:  Q5ZV26_LEGPH
+Sequence length:  486
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=ABC transporter ATP-binding protein Uup, erythromycin resistance {ECO:0000313|EMBL:AAU27696.1};
+
+Gene Name:  7697.1}
+Entry Name:  Q5ZV25_LEGPH
+Sequence length:  290
+Organism:  Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)
+Organism Classification:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID:  272624
+Description:  SubName: Full=Probable signal peptide protein {ECO:0000313|EMBL:AAU27697.1};
