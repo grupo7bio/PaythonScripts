@@ -1,0 +1,1442 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.6.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_98137</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>82</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_98137</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>82</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|489727636|ref|WP_003631752.1|</Hit_id>
+  <Hit_def>MULTISPECIES: acyl carrier protein [Legionellaceae] &gt;gi|52841626|ref|YP_095425.1| acyl carrier protein [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|52628737|gb|AAU27478.1| acyl carrier protein [Legionella pneumophila subsp. pneumophila str. Philadelphia 1] &gt;gi|53751091|emb|CAH12502.1| Acyl carrier protein (ACP) [Legionella pneumophila str. Paris] &gt;gi|53754114|emb|CAH15587.1| Acyl carrier protein (ACP) [Legionella pneumophila str. Lens] &gt;gi|148280700|gb|ABQ54788.1| hypothetical protein LPC_0812 [Legionella pneumophila str. Corby] &gt;gi|269988760|gb|EEZ95014.1| acyl carrier protein [Legionella longbeachae D-4968] &gt;gi|288857991|emb|CBJ11851.1| Acyl carrier protein (ACP) [Legionella longbeachae NSW150] &gt;gi|295648876|gb|ADG24723.1| Acyl carrier protein [Legionella pneumophila 2300/99 Alcoy] &gt;gi|364508075|gb|AEW51599.1| acyl carrier protein [Legionella pneumophila subsp. pneumophila ATCC 43290] &gt;gi|395127239|emb|CCD05429.1| acyl carrier protein (ACP) [Legionella pneumophila subsp. pneumophila] &gt;gi|395130425|emb|CCD08665.1| acyl carrier protein (ACP) [Legionella pneumophila subsp. pneumophila] &gt;gi|469492053|gb|AGH53898.1| Acyl carrier protein [Legionella pneumophila subsp. pneumophila LPE509] &gt;gi|509082039|gb|AGN14287.1| acyl carrier protein [Legionella pneumophila subsp. pneumophila str. Thunder Bay] &gt;gi|536614441|gb|ERB42788.1| acyl carrier protein [Legionella pneumophila str. 121004] &gt;gi|541996298|gb|ERH42373.1| acyl carrier protein [Legionella pneumophila str. Leg01/11] &gt;gi|541998118|gb|ERH44144.1| acyl carrier protein [Legionella pneumophila str. Leg01/53] &gt;gi|542121378|gb|ERI47709.1| acyl carrier protein [Legionella pneumophila str. Leg01/20] &gt;gi|761988553|dbj|GAN23445.1| acyl carrier protein [Legionella pneumophila] &gt;gi|761991666|dbj|GAN17324.1| acyl carrier protein [Legionella pneumophila] &gt;gi|761994856|dbj|GAN20430.1| acyl carrier protein [Legionella pneumophila] &gt;gi|761998118|dbj|GAN29827.1| acyl carrier protein [Legionella pneumophila] &gt;gi|762001541|dbj|GAN26522.1| acyl carrier protein [Legionella pneumophila] &gt;gi|962186714|gb|KTC71850.1| acyl carrier protein [Legionella anisa] &gt;gi|962188383|gb|KTC73507.1| acyl carrier protein [Fluoribacter bozemanae] &gt;gi|962194683|gb|KTC79744.1| acyl carrier protein [Legionella cherrii] &gt;gi|962204046|gb|KTC88995.1| acyl carrier protein [Fluoribacter dumoffii NY 23] &gt;gi|962208395|gb|KTC93321.1| acyl carrier protein [Legionella cincinnatiensis] &gt;gi|962216029|gb|KTD00798.1| acyl carrier protein [Fluoribacter gormanii] &gt;gi|962224815|gb|KTD09460.1| acyl carrier protein [Legionella jamestowniensis] &gt;gi|962257011|gb|KTD41148.1| acyl carrier protein [Legionella parisiensis] &gt;gi|962270480|gb|KTD54487.1| acyl carrier protein [Legionella sainthelensi] &gt;gi|962271762|gb|KTD55760.1| acyl carrier protein [Legionella santicrucis] &gt;gi|962284297|gb|KTD68063.1| acyl carrier protein [Legionella steelei] &gt;gi|962289425|gb|KTD73133.1| acyl carrier protein [Legionella tucsonensis] &gt;gi|962293907|gb|KTD77582.1| acyl carrier protein [Legionella steigerwaltii] &gt;gi|985763100|gb|KXB24247.1| acyl carrier protein [Legionella pneumophila] &gt;gi|985765044|gb|KXB26161.1| acyl carrier protein [Legionella pneumophila] &gt;gi|998773586|emb|CZH87288.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998776913|emb|CZG23630.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998779864|emb|CZG22497.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998782831|emb|CZI78467.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998785736|emb|CZG32225.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998788305|emb|CZG07462.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998791801|emb|CZG12339.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998794183|emb|CZI02852.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998797289|emb|CZH52904.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998799557|emb|CZL30091.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998803014|emb|CZH69205.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998806695|emb|CZJ87474.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998809833|emb|CZH59418.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998812221|emb|CZH31043.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998815655|emb|CZG26546.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998818274|emb|CZK88063.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998821624|emb|CZL25614.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998823866|emb|CZG64720.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998827610|emb|CZJ72042.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998830368|emb|CZG03009.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998833138|emb|CZH66437.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998836586|emb|CZK63129.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998839721|emb|CZJ10133.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998842607|emb|CZK82161.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998845090|emb|CZJ78599.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998848608|emb|CZK30438.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998851154|emb|CZH69188.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998854145|emb|CZK78782.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998857627|emb|CZL12284.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998860164|emb|CZL26195.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998863155|emb|CZJ90442.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998866752|emb|CZJ04597.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998868584|emb|CZI98118.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998872713|emb|CZL69877.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998875736|emb|CZJ94297.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998878315|emb|CZL56295.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998881813|emb|CZJ25598.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998884304|emb|CZI45874.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998887231|emb|CZL72156.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998890889|emb|CZJ65148.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998893211|emb|CZJ01819.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998896397|emb|CZJ62309.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998900190|emb|CZI94796.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998907769|emb|CZJ68558.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998910832|emb|CZK48624.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998913797|emb|CZG29127.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998916894|emb|CZK17046.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998919461|emb|CZK38060.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998922535|emb|CZK78747.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998925703|emb|CZJ28582.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998928223|emb|CZL18082.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998932133|emb|CZK25685.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998935214|emb|CZL23241.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998937196|emb|CZM19360.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998941262|emb|CZK30097.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998943502|emb|CZJ70409.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998946837|emb|CZK24440.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998950406|emb|CZK52371.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998953596|emb|CZI90732.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998956094|emb|CZJ68656.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998959497|emb|CZL61404.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998961887|emb|CZJ55183.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998965619|emb|CZJ57936.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998968695|emb|CZL81087.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998971725|emb|CZJ87001.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998974782|emb|CZJ96006.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998977457|emb|CZJ19907.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998980851|emb|CZL12717.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998982787|emb|CZI52317.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998986425|emb|CZJ50674.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998989481|emb|CZK97221.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998992110|emb|CZJ76604.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998995652|emb|CZH48274.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|998999084|emb|CZJ52716.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999001153|emb|CZG50929.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999004912|emb|CZH87693.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999007630|emb|CZK70348.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999010953|emb|CZJ44303.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999014386|emb|CZK96281.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999016330|emb|CZM21083.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999020522|emb|CZJ04009.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999023523|emb|CZK93439.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999026574|emb|CZK44154.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999029669|emb|CZJ09624.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999032196|emb|CZG44968.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999035245|emb|CZJ48291.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999038653|emb|CZK96203.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999040852|emb|CZJ46000.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999044747|emb|CZJ18748.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999047744|emb|CZL41669.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999050408|emb|CZJ32011.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999053420|emb|CZJ23587.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999056843|emb|CZJ13806.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999058975|emb|CZM03952.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999062862|emb|CZK53340.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999065939|emb|CZJ16142.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999068490|emb|CZI68748.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999071608|emb|CZJ25385.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999075053|emb|CZJ19622.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999078054|emb|CZG22932.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999080617|emb|CZJ53280.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999084222|emb|CZK63379.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999086870|emb|CZJ34472.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999089734|emb|CZK57113.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999092859|emb|CZK57291.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999096490|emb|CZG32271.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999099212|emb|CZG16208.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999102697|emb|CZL35220.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999104269|emb|CZH98499.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999108330|emb|CZI06544.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999111277|emb|CZK62925.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999114919|emb|CZL35865.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999117457|emb|CZJ62046.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999121033|emb|CZG04379.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999124108|emb|CZG07316.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999127224|emb|CZK42641.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999129902|emb|CZG29006.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999133364|emb|CZL43656.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999135324|emb|CZK89183.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999138995|emb|CZJ58388.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999142171|emb|CZK90040.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999145685|emb|CZK21531.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999148808|emb|CZL06913.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999151948|emb|CZH42125.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999154710|emb|CZL52388.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999158071|emb|CZH63685.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999160065|emb|CZJ40209.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999164037|emb|CZL51253.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999167365|emb|CZG10845.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999170561|emb|CZH44904.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999173027|emb|CZH90780.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999176610|emb|CZK68218.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999178619|emb|CZJ43967.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999182914|emb|CZG08048.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999186056|emb|CZP38574.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999189042|emb|CZI59960.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999192152|emb|CZI01133.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999194884|emb|CZI04011.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999197820|emb|CZP47700.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999201732|emb|CZG08364.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999204195|emb|CZI32039.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999207327|emb|CZP10387.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999210388|emb|CZK39132.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999213968|emb|CZG10180.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999215862|emb|CZJ25026.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999219784|emb|CZK89572.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999222768|emb|CZI14490.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999226448|emb|CZG13256.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999229168|emb|CZO77018.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999232791|emb|CZH92465.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999234916|emb|CZP75525.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999238573|emb|CZG02558.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999241585|emb|CZH49696.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999244650|emb|CZH61125.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999247287|emb|CZH78074.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999251068|emb|CZG20526.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999254036|emb|CZG37729.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999257094|emb|CZP29405.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999260163|emb|CZP06838.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999263888|emb|CZG13859.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999266447|emb|CZO69023.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999268904|emb|CZO55546.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999273108|emb|CZP13572.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999276181|emb|CZG08898.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999278931|emb|CZO77220.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999282031|emb|CZO92495.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999284778|emb|CZP26872.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999288661|emb|CZH60501.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999290635|emb|CZP38313.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999294977|emb|CZH77479.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999297791|emb|CZP11856.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999301029|emb|CZO76796.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999304729|emb|CZH73773.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999307022|emb|CZH82841.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999310077|emb|CZO97456.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999312378|emb|CZI76829.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999316456|emb|CZH78668.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999320037|emb|CZP15544.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999323210|emb|CZH63627.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999326152|emb|CZG37566.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999329129|emb|CZG41535.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999332055|emb|CZG46615.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999336102|emb|CZK45209.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999339025|emb|CZP08000.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999342340|emb|CZG24602.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999344998|emb|CZP70893.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999348527|emb|CZP24832.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999351223|emb|CZG66739.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999354873|emb|CZO99421.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999358334|emb|CZP23302.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999361683|emb|CZH80513.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999364591|emb|CZP30843.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999367631|emb|CZP48024.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999370492|emb|CZP62766.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999374525|emb|CZG22025.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999377683|emb|CZI73413.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999380982|emb|CZH35355.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999383930|emb|CZH75491.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999386982|emb|CZG31340.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999390648|emb|CZH82447.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999393468|emb|CZP64900.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999396495|emb|CZG38626.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999399688|emb|CZP73201.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999402837|emb|CZP55108.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999406800|emb|CZG14025.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999409963|emb|CZH42937.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999413194|emb|CZG07366.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999416126|emb|CZG38709.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999419616|emb|CZG06915.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999423090|emb|CZH33657.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999426004|emb|CZG07230.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999429640|emb|CZG10591.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999432325|emb|CZG36294.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999436117|emb|CZH44630.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999438873|emb|CZG31204.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999442579|emb|CZJ59330.1| acyl carrier protein [Legionella pneumophila] &gt;gi|999445854|emb|CZH44358.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999449072|emb|CZG22233.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999452057|emb|CZO89548.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999454621|emb|CZH84202.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999458784|emb|CZJ62114.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999461185|emb|CZG66740.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999464043|emb|CZM95134.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999467168|emb|CZO65537.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999471775|emb|CZG08903.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999473535|emb|CZN12290.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999476774|emb|CZO01031.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999480136|emb|CZN32171.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999483146|emb|CZO42775.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999486569|emb|CZM34802.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999489740|emb|CZO11900.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999492933|emb|CZM33826.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999497349|emb|CZH89405.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999499320|emb|CZN98231.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999502449|emb|CZO41684.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999505688|emb|CZN42350.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999508891|emb|CZG82347.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999512113|emb|CZN53307.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999515384|emb|CZM21101.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999518413|emb|CZN05683.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999522474|emb|CZO98799.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999525804|emb|CZI81254.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999529586|emb|CZH87173.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999531805|emb|CZO75366.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999534831|emb|CZN59484.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999538127|emb|CZN00731.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999541241|emb|CZO48945.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999544318|emb|CZO79866.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999547537|emb|CZO09419.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999550833|emb|CZO47157.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999553977|emb|CZN63385.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999557221|emb|CZO81823.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999560429|emb|CZM82271.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999563550|emb|CZO98403.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999566914|emb|CZM78179.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999569998|emb|CZN75306.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999573222|emb|CZO27976.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999577604|emb|CZH85543.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999579679|emb|CZO53157.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999582795|emb|CZO84516.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999586120|emb|CZN01995.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999589292|emb|CZM68248.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999592473|emb|CZN63773.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999595544|emb|CZO33446.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999598751|emb|CZO69848.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999601917|emb|CZM30050.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999604937|emb|CZN94797.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999608428|emb|CZN85144.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999612851|emb|CZH85392.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999615039|emb|CZM80679.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999617986|emb|CZO17278.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999621055|emb|CZP12637.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999624300|emb|CZO07622.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999627599|emb|CZM93844.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999631014|emb|CZM83520.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999633981|emb|CZN85733.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999637409|emb|CZN81779.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999640484|emb|CZP17317.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999643638|emb|CZO74922.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999646777|emb|CZO22279.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999649966|emb|CZO25152.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999653377|emb|CZO23537.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999656462|emb|CZM69339.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999659682|emb|CZM82109.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999662801|emb|CZN48867.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999666074|emb|CZM66139.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999669265|emb|CZM04048.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999672448|emb|CZM66531.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999675753|emb|CZO08627.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999678662|emb|CZN16861.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999681891|emb|CZN02313.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999685347|emb|CZO39031.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999688433|emb|CZN56541.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999691739|emb|CZO29387.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999694751|emb|CZN61968.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999698382|emb|CZM30672.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999701204|emb|CZN10394.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999704348|emb|CZM24838.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999707847|emb|CZN68718.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999711006|emb|CZN30879.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999714098|emb|CZN53434.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999717266|emb|CZO78548.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999720455|emb|CZN13474.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999723852|emb|CZN70004.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999727510|emb|CZM11993.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999730263|emb|CZO67236.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999733643|emb|CZM39142.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999736853|emb|CZP02642.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999740317|emb|CZM60040.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999743421|emb|CZN45109.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999746655|emb|CZM46772.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999749918|emb|CZM24848.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999752982|emb|CZN05458.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999756243|emb|CZN42750.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999759743|emb|CZM56945.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999762722|emb|CZN49357.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999766136|emb|CZN04450.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999769171|emb|CZN79709.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999772532|emb|CZI11755.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999775779|emb|CZM17940.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999779987|emb|CZG04014.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999782298|emb|CZH77126.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999785861|emb|CZM53989.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999788907|emb|CZO94090.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999792217|emb|CZO86145.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999795442|emb|CZI54458.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|999798917|emb|CZO94885.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|1002076359|emb|CZQ82248.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|1002079284|emb|CZQ81482.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|1002082570|emb|CZQ94218.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|1002085733|emb|CZQ96235.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|1002090544|emb|CZQ77222.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|1002091963|emb|CZR04978.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|1003020541|emb|CZR17063.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1003023432|emb|CZR16399.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1003025576|emb|CZR23404.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1003029901|emb|CZR15957.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1003031735|emb|CZR29591.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|1003035340|emb|CZR23360.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1005364086|gb|AMP89955.1| acyl carrier protein [Legionella pneumophila subsp. pascullei] &gt;gi|1005366601|gb|AMP92378.1| acyl carrier protein [Legionella pneumophila subsp. pascullei] &gt;gi|1005369568|gb|AMP95344.1| acyl carrier protein [Legionella pneumophila subsp. pascullei] &gt;gi|1005832958|gb|AMQ27684.1| acyl carrier protein [Legionella pneumophila subsp. pneumophila] &gt;gi|1015432496|gb|AMV14123.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|1024340126|gb|KZX34464.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1032657490|gb|ANH12761.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1032660458|gb|ANH15728.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1032663425|gb|ANH18694.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1041015323|gb|ANN92384.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1041018368|gb|ANN95428.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1045922367|gb|OCH99284.1| acyl carrier protein [Legionella jamestowniensis] &gt;gi|1069293023|gb|OEH48363.1| Acyl carrier protein [Legionella parisiensis] &gt;gi|1073864457|gb|AOU04408.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073867423|gb|AOU07373.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073870468|gb|AOU10417.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073873382|gb|AOU13330.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073876394|gb|AOU16341.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073879355|gb|AOU19301.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073882352|gb|AOU22297.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073885275|gb|AOU25219.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073888269|gb|AOU28212.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073891253|gb|AOU31195.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073894218|gb|AOU34159.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073897181|gb|AOU37121.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073900144|gb|AOU40083.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073903098|gb|AOU43036.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073906012|gb|AOU45949.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073909025|gb|AOU48960.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073912081|gb|AOU52013.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073915000|gb|AOU54931.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073918005|gb|AOU57935.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073920921|gb|AOU60850.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073923898|gb|AOU63825.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073926908|gb|AOU66834.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073929895|gb|AOU69804.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073933274|gb|AOU72833.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073936231|gb|AOU83230.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073946498|gb|AOU86222.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1073949465|gb|AOU89188.1| acyl carrier protein [Legionella pneumophila] &gt;gi|1080001487|gb|AOW52059.1| acyl carrier protein [Legionella pneumophila subsp. pneumophila] &gt;gi|1080004070|gb|AOW54350.1| acyl carrier protein [Legionella pneumophila subsp. pneumophila] &gt;gi|1080007367|gb|AOW57355.1| acyl carrier protein [Legionella pneumophila subsp. pneumophila] &gt;gi|1080010228|gb|AOW59719.1| acyl carrier protein [Legionella pneumophila subsp. pneumophila] &gt;gi|1080013981|gb|AOW62854.1| acyl carrier protein [Legionella pneumophila subsp. pneumophila] &gt;gi|1080019220|gb|AOW67865.1| acyl carrier protein [Legionella pneumophila subsp. pneumophila] &gt;gi|1097328167|emb|SFL89710.1| acyl carrier protein [Legionella jamestowniensis DSM 19215] &gt;gi|1103996414|emb|SFZ40315.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|1103999536|emb|SFZ40289.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|1104002682|emb|SFZ40375.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|1104006204|emb|SFZ40286.1| Acyl carrier protein [Legionella pneumophila] &gt;gi|1108604675|gb|APF03043.1| acyl carrier protein [Legionella pneumophila subsp. fraseri] &gt;gi|1108607706|gb|APF06073.1| acyl carrier protein [Legionella pneumophila subsp. fraseri] &gt;gi|1113348128|gb|OJW11919.1| acyl carrier protein [Legionella sp. 39-23]</Hit_def>
+  <Hit_accession>WP_003631752</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>157.532</Hsp_bit-score>
+      <Hsp_score>397</Hsp_score>
+      <Hsp_evalue>1.0393e-48</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>82</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_qseq>
+      <Hsp_hseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_hseq>
+      <Hsp_midline>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|966398641|ref|WP_058442489.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Legionella brunensis] &gt;gi|962193155|gb|KTC78222.1| acyl carrier protein [Legionella brunensis]</Hit_def>
+  <Hit_accession>WP_058442489</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>157.147</Hsp_bit-score>
+      <Hsp_score>396</Hsp_score>
+      <Hsp_evalue>1.49322e-48</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_qseq>
+      <Hsp_hseq>MSTVEERVRKIVIEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_hseq>
+      <Hsp_midline>MSTVEERVRKIV+EQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|966468843|ref|WP_058500169.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Legionella gratiana] &gt;gi|962221766|gb|KTD06426.1| acyl carrier protein [Legionella gratiana]</Hit_def>
+  <Hit_accession>WP_058500169</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>156.377</Hsp_bit-score>
+      <Hsp_score>394</Hsp_score>
+      <Hsp_evalue>2.29149e-48</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_qseq>
+      <Hsp_hseq>MSTVEERVRKIVVEQLGVKEEELRNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_hseq>
+      <Hsp_midline>MSTVEERVRKIVVEQLGVKEEEL+NDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|966471441|ref|WP_058502356.1|</Hit_id>
+  <Hit_def>MULTISPECIES: acyl carrier protein [Legionella] &gt;gi|962234971|gb|KTD19480.1| acyl carrier protein [Legionella israelensis] &gt;gi|962236172|gb|KTD20633.1| acyl carrier protein [Legionella londiniensis]</Hit_def>
+  <Hit_accession>WP_058502356</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>156.377</Hsp_bit-score>
+      <Hsp_score>394</Hsp_score>
+      <Hsp_evalue>2.98247e-48</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_qseq>
+      <Hsp_hseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIEANLNKEEA</Hsp_hseq>
+      <Hsp_midline>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIE+NLNKEEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|763132799|ref|WP_044012488.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Legionella massiliensis] &gt;gi|683287243|emb|CEE15007.1| Acyl carrier protein [Legionella massiliensis] &gt;gi|685069907|emb|CDZ79269.1| Acyl carrier protein [Legionella massiliensis]</Hit_def>
+  <Hit_accession>WP_044012488</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>155.992</Hsp_bit-score>
+      <Hsp_score>393</Hsp_score>
+      <Hsp_evalue>3.756e-48</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_qseq>
+      <Hsp_hseq>MSTVEERVRKIVVEQLGVKEDELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_hseq>
+      <Hsp_midline>MSTVEERVRKIVVEQLGVKE+ELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|517403728|ref|WP_018576556.1|</Hit_id>
+  <Hit_def>MULTISPECIES: acyl carrier protein [Legionella] &gt;gi|701446576|gb|KGP63929.1| acyl carrier protein [Legionella norrlandica] &gt;gi|962250003|gb|KTD34207.1| acyl carrier protein [Legionella moravica] &gt;gi|962266713|gb|KTD50745.1| acyl carrier protein [Legionella quateirensis] &gt;gi|962277599|gb|KTD61470.1| acyl carrier protein [Legionella shakespearei DSM 23087] &gt;gi|962297838|gb|KTD81458.1| acyl carrier protein [Legionella worsleiensis] &gt;gi|962298702|gb|KTD82304.1| acyl carrier protein [Legionella waltersii]</Hit_def>
+  <Hit_accession>WP_018576556</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>155.992</Hsp_bit-score>
+      <Hsp_score>393</Hsp_score>
+      <Hsp_evalue>3.756e-48</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_qseq>
+      <Hsp_hseq>MSTVEDRVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_hseq>
+      <Hsp_midline>MSTVE+RVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|966475738|ref|WP_058506471.1|</Hit_id>
+  <Hit_def>MULTISPECIES: acyl carrier protein [Legionella] &gt;gi|962189269|gb|KTC74382.1| acyl carrier protein [Legionella birminghamensis] &gt;gi|962267465|gb|KTD51495.1| acyl carrier protein [Legionella quinlivanii] &gt;gi|1090728772|emb|SEF57002.1| acyl carrier protein [Legionella quinlivanii DSM 21216]</Hit_def>
+  <Hit_accession>WP_058506471</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>155.606</Hsp_bit-score>
+      <Hsp_score>392</Hsp_score>
+      <Hsp_evalue>4.83519e-48</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_qseq>
+      <Hsp_hseq>MSTVEERVRKIVVEQLGVKEEELKNNASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_hseq>
+      <Hsp_midline>MSTVEERVRKIVVEQLGVKEEELKN+ASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|966443198|ref|WP_058483460.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Legionella spiritensis] &gt;gi|962280202|gb|KTD64024.1| acyl carrier protein [Legionella spiritensis]</Hit_def>
+  <Hit_accession>WP_058483460</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>155.606</Hsp_bit-score>
+      <Hsp_score>392</Hsp_score>
+      <Hsp_evalue>5.8919e-48</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>80</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_qseq>
+      <Hsp_hseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIEANMNKEEA</Hsp_hseq>
+      <Hsp_midline>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIE+N+NKEEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|769990167|ref|WP_045106116.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Legionella hackeliae] &gt;gi|731152247|emb|CEK10812.1| Acyl carrier protein [Legionella hackeliae] &gt;gi|962225213|gb|KTD09857.1| acyl carrier protein [Legionella hackeliae]</Hit_def>
+  <Hit_accession>WP_045106116</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>155.221</Hsp_bit-score>
+      <Hsp_score>391</Hsp_score>
+      <Hsp_evalue>6.29317e-48</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>80</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_qseq>
+      <Hsp_hseq>MSTVEERVRKIVIEQLGVKDEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_hseq>
+      <Hsp_midline>MSTVEERVRKIV+EQLGVK+EELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|769979383|ref|WP_045095368.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Legionella fallonii] &gt;gi|698842790|emb|CEG56751.1| acyl carrier protein (ACP) [Legionella fallonii LLAP-10]</Hit_def>
+  <Hit_accession>WP_045095368</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>155.221</Hsp_bit-score>
+      <Hsp_score>391</Hsp_score>
+      <Hsp_evalue>6.87103e-48</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>80</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_qseq>
+      <Hsp_hseq>MSTVEDRVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNMNKEEA</Hsp_hseq>
+      <Hsp_midline>MSTVE+RVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESN+NKEEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|1113535226|gb|OJX95554.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Legionella sp. 40-6]</Hit_def>
+  <Hit_accession>OJX95554</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>155.221</Hsp_bit-score>
+      <Hsp_score>391</Hsp_score>
+      <Hsp_evalue>7.42001e-48</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_qseq>
+      <Hsp_hseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLDKEEA</Hsp_hseq>
+      <Hsp_midline>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNL+KEEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|644964657|ref|WP_025385412.1|</Hit_id>
+  <Hit_def>MULTISPECIES: acyl carrier protein [Legionella] &gt;gi|570284496|gb|AHE66683.1| acyl carrier protein [Legionella oakridgensis ATCC 33761 = DSM 21215] &gt;gi|570702638|gb|ETO93557.1| acyl carrier protein [Legionella oakridgensis RV-2-2007] &gt;gi|962180914|gb|KTC66162.1| acyl carrier protein [Legionella adelaidensis] &gt;gi|962253548|gb|KTD37727.1| acyl carrier protein [Legionella oakridgensis]</Hit_def>
+  <Hit_accession>WP_025385412</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>154.836</Hsp_bit-score>
+      <Hsp_score>390</Hsp_score>
+      <Hsp_evalue>1.0429e-47</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>80</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_qseq>
+      <Hsp_hseq>MSTVEERVRKIVVEQLGVKEDELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIEANLNKEEA</Hsp_hseq>
+      <Hsp_midline>MSTVEERVRKIVVEQLGVKE+ELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIE+NLNKEEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|518046743|ref|WP_019216951.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Legionella tunisiensis]</Hit_def>
+  <Hit_accession>WP_019216951</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>154.451</Hsp_bit-score>
+      <Hsp_score>389</Hsp_score>
+      <Hsp_evalue>1.25694e-47</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>80</Hsp_identity>
+      <Hsp_positive>81</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_qseq>
+      <Hsp_hseq>MSTVEERVRKIVVDQLGVKSEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_hseq>
+      <Hsp_midline>MSTVEERVRKIVV+QLGVK EELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|966400372|ref|WP_058443967.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Legionella feeleii] &gt;gi|962217960|gb|KTD02691.1| acyl carrier protein [Legionella feeleii]</Hit_def>
+  <Hit_accession>WP_058443967</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>154.066</Hsp_bit-score>
+      <Hsp_score>388</Hsp_score>
+      <Hsp_evalue>1.88698e-47</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>80</Hsp_identity>
+      <Hsp_positive>81</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_qseq>
+      <Hsp_hseq>MSTVEERVRKIVVDQLGVKPEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_hseq>
+      <Hsp_midline>MSTVEERVRKIVV+QLGVK EELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|966473520|ref|WP_058504281.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Legionella nautarum] &gt;gi|962252080|gb|KTD36267.1| acyl carrier protein [Legionella nautarum]</Hit_def>
+  <Hit_accession>WP_058504281</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>152.525</Hsp_bit-score>
+      <Hsp_score>384</Hsp_score>
+      <Hsp_evalue>7.28347e-47</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>78</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_qseq>
+      <Hsp_hseq>MSTVEERVRKIVMEQLGVKEDELRNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIEANLNKEEA</Hsp_hseq>
+      <Hsp_midline>MSTVEERVRKIV+EQLGVKE+EL+NDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIE+NLNKEEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|493926884|ref|WP_006871648.1|</Hit_id>
+  <Hit_def>MULTISPECIES: acyl carrier protein [Legionella] &gt;gi|363536811|gb|EHL30243.1| acyl carrier protein [Legionella drancourtii LLAP12]</Hit_def>
+  <Hit_accession>WP_006871648</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>152.525</Hsp_bit-score>
+      <Hsp_score>384</Hsp_score>
+      <Hsp_evalue>7.61051e-47</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>79</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_qseq>
+      <Hsp_hseq>MSTVEDRVRKIVVEQLGVKEEDLKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLDKEEA</Hsp_hseq>
+      <Hsp_midline>MSTVE+RVRKIVVEQLGVKEE+LKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNL+KEEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|654923067|ref|WP_028373609.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Legionella lansingensis] &gt;gi|962237872|gb|KTD22308.1| acyl carrier protein [Legionella lansingensis]</Hit_def>
+  <Hit_accession>WP_028373609</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>151.754</Hsp_bit-score>
+      <Hsp_score>382</Hsp_score>
+      <Hsp_evalue>1.55377e-46</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>77</Hsp_identity>
+      <Hsp_positive>81</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_qseq>
+      <Hsp_hseq>MSTVEERVRKIVIEQLGIKEEELKNTASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTVQEAIDYIEANLNKEEA</Hsp_hseq>
+      <Hsp_midline>MSTVEERVRKIV+EQLG+KEEELKN ASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITT+QEAIDYIE+NLNKEEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|966463282|ref|WP_058494644.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Legionella drozanskii] &gt;gi|962207986|gb|KTC92913.1| acyl carrier protein [Legionella drozanskii LLAP-1]</Hit_def>
+  <Hit_accession>WP_058494644</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>151.369</Hsp_bit-score>
+      <Hsp_score>381</Hsp_score>
+      <Hsp_evalue>2.08998e-46</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>77</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_qseq>
+      <Hsp_hseq>MSTVEERVRKIVMEQLGVKEDDLRNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIEANLNKEEA</Hsp_hseq>
+      <Hsp_midline>MSTVEERVRKIV+EQLGVKE++L+NDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIE+NLNKEEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|769983353|ref|WP_045099335.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Tatlockia micdadei] &gt;gi|698847035|emb|CEG61026.1| Acyl carrier protein [Tatlockia micdadei] &gt;gi|962244067|gb|KTD28382.1| acyl carrier protein [Tatlockia micdadei] &gt;gi|1081463679|emb|SCY70670.1| acyl carrier protein [Tatlockia micdadei]</Hit_def>
+  <Hit_accession>WP_045099335</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>150.984</Hsp_bit-score>
+      <Hsp_score>380</Hsp_score>
+      <Hsp_evalue>4.08352e-46</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>78</Hsp_identity>
+      <Hsp_positive>79</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_qseq>
+      <Hsp_hseq>MSTVEERVRKIVSEQLGVNENELRNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_hseq>
+      <Hsp_midline>MSTVEERVRKIV EQLGV E EL+NDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|966427454|ref|WP_058469950.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Legionella jordanis] &gt;gi|962231518|gb|KTD16066.1| acyl carrier protein [Legionella jordanis]</Hit_def>
+  <Hit_accession>WP_058469950</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>149.443</Hsp_bit-score>
+      <Hsp_score>376</Hsp_score>
+      <Hsp_evalue>1.33675e-45</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>77</Hsp_identity>
+      <Hsp_positive>80</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_qseq>
+      <Hsp_hseq>MSTVEERVRKIVIEQLGVNGEDLKNNASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_hseq>
+      <Hsp_midline>MSTVEERVRKIV+EQLGV  E+LKN+ASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|966509751|ref|WP_058526342.1|</Hit_id>
+  <Hit_def>MULTISPECIES: acyl carrier protein [Legionella] &gt;gi|962213268|gb|KTC98137.1| acyl carrier protein [Legionella erythra] &gt;gi|962265316|gb|KTD49364.1| acyl carrier protein [Legionella rubrilucens]</Hit_def>
+  <Hit_accession>WP_058526342</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>149.058</Hsp_bit-score>
+      <Hsp_score>375</Hsp_score>
+      <Hsp_evalue>2.02888e-45</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>77</Hsp_identity>
+      <Hsp_positive>80</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_qseq>
+      <Hsp_hseq>MSTVEERVRKIVGEQLGVKEEDLNNNASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNMNKEEA</Hsp_hseq>
+      <Hsp_midline>MSTVEERVRKIV EQLGVKEE+L N+ASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESN+NKEEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|966408218|ref|WP_058451610.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Legionella maceachernii] &gt;gi|962245315|gb|KTD29618.1| acyl carrier protein [Legionella maceachernii]</Hit_def>
+  <Hit_accession>WP_058451610</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>149.058</Hsp_bit-score>
+      <Hsp_score>375</Hsp_score>
+      <Hsp_evalue>2.09682e-45</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>77</Hsp_identity>
+      <Hsp_positive>79</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_qseq>
+      <Hsp_hseq>MSTVEERVKKIVSEQLGVNENELRNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_hseq>
+      <Hsp_midline>MSTVEERV+KIV EQLGV E EL+NDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|654937597|ref|WP_028387848.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Legionella fairfieldensis]</Hit_def>
+  <Hit_accession>WP_028387848</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>148.288</Hsp_bit-score>
+      <Hsp_score>373</Hsp_score>
+      <Hsp_evalue>3.47468e-45</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>77</Hsp_identity>
+      <Hsp_positive>80</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_qseq>
+      <Hsp_hseq>MSTVKERVRKIVAEQLGVNEEELKDNASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_hseq>
+      <Hsp_midline>MSTV+ERVRKIV EQLGV EEELK++ASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|1085361363|gb|OGV32922.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Legionellales bacterium RIFCSPHIGHO2_12_FULL_35_11]</Hit_def>
+  <Hit_accession>OGV32922</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>147.517</Hsp_bit-score>
+      <Hsp_score>371</Hsp_score>
+      <Hsp_evalue>9.33425e-45</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>80</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>80</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>75</Hsp_identity>
+      <Hsp_positive>78</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>80</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKE</Hsp_qseq>
+      <Hsp_hseq>MSTVQERVRKIVVEQLGIKEDELSNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIEENLNKE</Hsp_hseq>
+      <Hsp_midline>MSTV+ERVRKIVVEQLG+KE+EL NDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIE NLNKE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|1085353291|gb|OGV25409.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Legionellales bacterium RIFCSPHIGHO2_12_FULL_37_14]</Hit_def>
+  <Hit_accession>OGV25409</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>143.28</Hsp_bit-score>
+      <Hsp_score>360</Hsp_score>
+      <Hsp_evalue>4.16782e-43</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>82</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>82</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>72</Hsp_identity>
+      <Hsp_positive>77</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>82</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNKEEA</Hsp_qseq>
+      <Hsp_hseq>MSNVESRVRKIVAEQLGVKEDELRNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKIMTIQQAIDYINTNLNKEDA</Hsp_hseq>
+      <Hsp_midline>MS VE RVRKIV EQLGVKE+EL+NDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKI TIQ+AIDYI +NLNKE+A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|1085369216|gb|OGV40397.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Legionellales bacterium RIFCSPHIGHO2_12_FULL_42_9]</Hit_def>
+  <Hit_accession>OGV40397</Hit_accession>
+  <Hit_len>82</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>138.272</Hsp_bit-score>
+      <Hsp_score>347</Hsp_score>
+      <Hsp_evalue>3.92487e-41</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>79</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>79</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>76</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>79</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNK</Hsp_qseq>
+      <Hsp_hseq>MSTVEERVRKIVVEQLGVKEEALSNNAKFVEDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAINHIESHMNK</Hsp_hseq>
+      <Hsp_midline>MSTVEERVRKIVVEQLGVKEE L N+A FV+DLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAI++IES++NK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|1085125962|gb|OGT19720.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Gammaproteobacteria bacterium RBG_16_57_12]</Hit_def>
+  <Hit_accession>OGT19720</Hit_accession>
+  <Hit_len>78</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>133.65</Hsp_bit-score>
+      <Hsp_score>335</Hsp_score>
+      <Hsp_evalue>2.50097e-39</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>76</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>74</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESN</Hsp_qseq>
+      <Hsp_hseq>MSTVEERVKKIVIEQLGVKEEEVKNASSFVDDLGADSLDTVELVMALEEEFETEIPDEQAEKITTVQQAIDYITAN</Hsp_hseq>
+      <Hsp_midline>MSTVEERV+KIV+EQLGVKEEE+KN +SFVDDLGADSLDTVELVMALEEEFETEIPDE+AEKITT+Q+AIDYI +N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|1084647058|gb|OGO95634.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Coxiella sp. RIFCSPHIGHO2_12_FULL_44_14]</Hit_def>
+  <Hit_accession>OGO95634</Hit_accession>
+  <Hit_len>84</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>133.265</Hsp_bit-score>
+      <Hsp_score>334</Hsp_score>
+      <Hsp_evalue>3.32185e-39</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>76</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>75</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESN</Hsp_qseq>
+      <Hsp_hseq>MATVEERVKKIVVEQLGVKEEEVTNDASFVDDLGADSLDTVELVMALEEEFDTEIPDEEAEKITTIQQAIDYVKSH</Hsp_hseq>
+      <Hsp_midline>M+TVEERV+KIVVEQLGVKEEE+ NDASFVDDLGADSLDTVELVMALEEEF+TEIPDE+AEKITTIQ+AIDY++S+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|1057158034|ref|WP_068545228.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Thalassotalea sp. LPB0090]</Hit_def>
+  <Hit_accession>WP_068545228</Hit_accession>
+  <Hit_len>77</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>132.109</Hsp_bit-score>
+      <Hsp_score>331</Hsp_score>
+      <Hsp_evalue>1.02382e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>76</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>65</Hsp_identity>
+      <Hsp_positive>73</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESN</Hsp_qseq>
+      <Hsp_hseq>MSTIEERVRKIIVEQLGVKEEEAKNEASFVDDLGADSLDTVELVMALEEEFDTEIPDEEAEKITTVQSAIDYVTAN</Hsp_hseq>
+      <Hsp_midline>MST+EERVRKI+VEQLGVKEEE KN+ASFVDDLGADSLDTVELVMALEEEF+TEIPDE+AEKITT+Q AIDY+ +N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|406940832|gb|EKD73486.1|</Hit_id>
+  <Hit_def>acyl carrier protein [uncultured bacterium]</Hit_def>
+  <Hit_accession>EKD73486</Hit_accession>
+  <Hit_len>83</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>132.109</Hsp_bit-score>
+      <Hsp_score>331</Hsp_score>
+      <Hsp_evalue>1.03276e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>77</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>77</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>67</Hsp_identity>
+      <Hsp_positive>72</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>77</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNL</Hsp_qseq>
+      <Hsp_hseq>MGTVEARVKKIVVEQLGVKEEEVTNDSSFVDDLGADSLDTVELVMALEEEFETEIPDEDAEKITTIQQAIDYINSHL</Hsp_hseq>
+      <Hsp_midline>M TVE RV+KIVVEQLGVKEEE+ ND+SFVDDLGADSLDTVELVMALEEEFETEIPDE AEKITTIQ+AIDYI S+L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|1028420091|gb|OAI50005.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Gammaproteobacteria bacterium SCGC AG-212-F23]</Hit_def>
+  <Hit_accession>OAI50005</Hit_accession>
+  <Hit_len>83</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>131.724</Hsp_bit-score>
+      <Hsp_score>330</Hsp_score>
+      <Hsp_evalue>1.58457e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>77</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>77</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>73</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>77</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNL</Hsp_qseq>
+      <Hsp_hseq>MSTVEARVKKIVVEQLGVKEDEVSNDASFVDDLGADSLDTVELVMALEEEFETEIPDEDAEKITTIQQAIDYINAHI</Hsp_hseq>
+      <Hsp_midline>MSTVE RV+KIVVEQLGVKE+E+ NDASFVDDLGADSLDTVELVMALEEEFETEIPDE AEKITTIQ+AIDYI +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|406916268|gb|EKD55292.1|</Hit_id>
+  <Hit_def>acyl carrier protein [uncultured bacterium]</Hit_def>
+  <Hit_accession>EKD55292</Hit_accession>
+  <Hit_len>83</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>131.339</Hsp_bit-score>
+      <Hsp_score>329</Hsp_score>
+      <Hsp_evalue>1.82759e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>77</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>77</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>72</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>77</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNL</Hsp_qseq>
+      <Hsp_hseq>MGTVEARVKKIVVEQLGVKEEEVTNDSSFVDDLGADSLDTVELVMALEEEFETEIPDEDAEKITTIQQAVDYINSHL</Hsp_hseq>
+      <Hsp_midline>M TVE RV+KIVVEQLGVKEEE+ ND+SFVDDLGADSLDTVELVMALEEEFETEIPDE AEKITTIQ+A+DYI S+L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|511757960|ref|WP_016391229.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Pseudomonas plecoglossicida] &gt;gi|511104970|gb|EPB97833.1| acyl carrier protein [Pseudomonas plecoglossicida NB2011]</Hit_def>
+  <Hit_accession>WP_016391229</Hit_accession>
+  <Hit_len>78</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>131.339</Hsp_bit-score>
+      <Hsp_score>329</Hsp_score>
+      <Hsp_evalue>1.84426e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>76</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>65</Hsp_identity>
+      <Hsp_positive>73</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESN</Hsp_qseq>
+      <Hsp_hseq>MSTIEERVKKIVAEQLGVKEEEVKNEASFVDDLGADSLDTVELVMALEEEFETEIPDEEAEKITTVQAAIDYVNSH</Hsp_hseq>
+      <Hsp_midline>MST+EERV+KIV EQLGVKEEE+KN+ASFVDDLGADSLDTVELVMALEEEFETEIPDE+AEKITT+Q AIDY+ S+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|931391643|gb|KPJ81147.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Gammaproteobacteria bacterium SG8_30]</Hit_def>
+  <Hit_accession>KPJ81147</Hit_accession>
+  <Hit_len>80</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>131.339</Hsp_bit-score>
+      <Hsp_score>329</Hsp_score>
+      <Hsp_evalue>2.019e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>79</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>79</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>67</Hsp_identity>
+      <Hsp_positive>73</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>79</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNK</Hsp_qseq>
+      <Hsp_hseq>MSTVEERVKKIVAEQLGVKEEEVTNDASFVDDLGADSLDTVELVMALEEEFETEIPDEDAEKITTVQQAIDYIVEHQSK</Hsp_hseq>
+      <Hsp_midline>MSTVEERV+KIV EQLGVKEEE+ NDASFVDDLGADSLDTVELVMALEEEFETEIPDE AEKITT+Q+AIDYI  + +K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|890036247|ref|WP_048875142.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Coxiella-like endosymbiont] &gt;gi|885002036|gb|AKQ33551.1| Acyl carrier protein [Coxiella-like endosymbiont]</Hit_def>
+  <Hit_accession>WP_048875142</Hit_accession>
+  <Hit_len>83</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>131.339</Hsp_bit-score>
+      <Hsp_score>329</Hsp_score>
+      <Hsp_evalue>2.1079e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>76</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>75</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESN</Hsp_qseq>
+      <Hsp_hseq>MATVEERVKKIIIEQLGVKEEEVTNDASFVDDLGADSLDTVELVMALEEQFDTEIPDEEAEKITTVQQAIDYIKSH</Hsp_hseq>
+      <Hsp_midline>M+TVEERV+KI++EQLGVKEEE+ NDASFVDDLGADSLDTVELVMALEE+F+TEIPDE+AEKITT+Q+AIDYI+S+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|740245415|ref|WP_038086394.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Acidihalobacter prosperus] &gt;gi|1040017719|gb|OBS10755.1| acyl carrier protein [Acidihalobacter prosperus] &gt;gi|1073977248|gb|AOV16959.1| acyl carrier protein [Acidihalobacter prosperus]</Hit_def>
+  <Hit_accession>WP_038086394</Hit_accession>
+  <Hit_len>78</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>130.954</Hsp_bit-score>
+      <Hsp_score>328</Hsp_score>
+      <Hsp_evalue>2.32242e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>77</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>77</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>65</Hsp_identity>
+      <Hsp_positive>74</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>77</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNL</Hsp_qseq>
+      <Hsp_hseq>MSNVEERVKKIVVEQLGVKEEDVKNDSSFVDDLGADSLDTVELVMALEEEFECEIPDEEAEKITTVQQAIDYINAHL</Hsp_hseq>
+      <Hsp_midline>MS VEERV+KIVVEQLGVKEE++KND+SFVDDLGADSLDTVELVMALEEEFE EIPDE+AEKITT+Q+AIDYI ++L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|493840042|ref|WP_006787189.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Thiorhodospira sibirica] &gt;gi|349793730|gb|EGZ47559.1| Acyl carrier protein [Thiorhodospira sibirica ATCC 700588]</Hit_def>
+  <Hit_accession>WP_006787189</Hit_accession>
+  <Hit_len>80</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>130.954</Hsp_bit-score>
+      <Hsp_score>328</Hsp_score>
+      <Hsp_evalue>2.40664e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>76</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>65</Hsp_identity>
+      <Hsp_positive>73</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESN</Hsp_qseq>
+      <Hsp_hseq>MSTVEERVKKIVVEQLGVKEEEVNNSSSFVDDLGADSLDTVELVMALEEEFETEIPDEEAEKITTVQQAIDYINAH</Hsp_hseq>
+      <Hsp_midline>MSTVEERV+KIVVEQLGVKEEE+ N +SFVDDLGADSLDTVELVMALEEEFETEIPDE+AEKITT+Q+AIDYI ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|495760413|ref|WP_008484992.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Gallaecimonas xiamenensis] &gt;gi|407202214|gb|EKE72208.1| acyl carrier protein [Gallaecimonas xiamenensis 3-C-1]</Hit_def>
+  <Hit_accession>WP_008484992</Hit_accession>
+  <Hit_len>78</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>130.954</Hsp_bit-score>
+      <Hsp_score>328</Hsp_score>
+      <Hsp_evalue>2.5356e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>78</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>78</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>75</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>78</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLN</Hsp_qseq>
+      <Hsp_hseq>MSTIEERVKKIIVEQLGVKEEEVKNEASFVDDLGADSLDTVELVMALEEEFDTEIPDEEAEKITTVQAAIDYVTAHQN</Hsp_hseq>
+      <Hsp_midline>MST+EERV+KI+VEQLGVKEEE+KN+ASFVDDLGADSLDTVELVMALEEEF+TEIPDE+AEKITT+Q AIDY+ ++ N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|490557247|ref|WP_004422318.1|</Hit_id>
+  <Hit_def>MULTISPECIES: acyl carrier protein [Pseudomonas aeruginosa group] &gt;gi|442903522|gb|ELS28813.1| Acyl carrier protein [Pseudomonas pseudoalcaligenes KF707 = NBRC 110670] &gt;gi|1015572497|dbj|BAU73589.1| acyl carrier protein [Pseudomonas pseudoalcaligenes KF707 = NBRC 110670]</Hit_def>
+  <Hit_accession>WP_004422318</Hit_accession>
+  <Hit_len>78</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>130.954</Hsp_bit-score>
+      <Hsp_score>328</Hsp_score>
+      <Hsp_evalue>2.73813e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>76</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>65</Hsp_identity>
+      <Hsp_positive>72</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESN</Hsp_qseq>
+      <Hsp_hseq>MSTIEERVKKIVAEQLGVKEEEVTNSASFVEDLGADSLDTVELVMALEEEFETEIPDEQAEKITTVQEAIDYINAN</Hsp_hseq>
+      <Hsp_midline>MST+EERV+KIV EQLGVKEEE+ N ASFV+DLGADSLDTVELVMALEEEFETEIPDE+AEKITT+QEAIDYI +N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|1093990587|ref|WP_070988504.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Halofilum ochraceum]</Hit_def>
+  <Hit_accession>WP_070988504</Hit_accession>
+  <Hit_len>78</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>130.954</Hsp_bit-score>
+      <Hsp_score>328</Hsp_score>
+      <Hsp_evalue>2.79891e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>78</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>78</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>73</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>78</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLN</Hsp_qseq>
+      <Hsp_hseq>MSSVEERVKKIVVEQLGVKEEEVTNAASFVDDLGADSLDTVELVMALEEEFECEIPDEEAEKITTVQQAIDYINNNLG</Hsp_hseq>
+      <Hsp_midline>MS+VEERV+KIVVEQLGVKEEE+ N ASFVDDLGADSLDTVELVMALEEEFE EIPDE+AEKITT+Q+AIDYI +NL </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|696545269|ref|WP_033078142.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Thalassotalea sp. ND16A] &gt;gi|694339823|gb|KGJ92764.1| hypothetical protein ND16A_1566 [Thalassotalea sp. ND16A]</Hit_def>
+  <Hit_accession>WP_033078142</Hit_accession>
+  <Hit_len>77</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>130.568</Hsp_bit-score>
+      <Hsp_score>327</Hsp_score>
+      <Hsp_evalue>3.86466e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>76</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>73</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESN</Hsp_qseq>
+      <Hsp_hseq>MSTIEERVRKIIVEQLGVKEEEAKNEASFVDDLGADSLDTVELVMALEEEFDTEIPDEEAEKITTVQSAIDYVTAH</Hsp_hseq>
+      <Hsp_midline>MST+EERVRKI+VEQLGVKEEE KN+ASFVDDLGADSLDTVELVMALEEEF+TEIPDE+AEKITT+Q AIDY+ ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|1074965012|ref|WP_070078477.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Acidihalobacter prosperus] &gt;gi|1073958381|gb|AOU98101.1| acyl carrier protein [Acidihalobacter prosperus]</Hit_def>
+  <Hit_accession>WP_070078477</Hit_accession>
+  <Hit_len>78</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>130.568</Hsp_bit-score>
+      <Hsp_score>327</Hsp_score>
+      <Hsp_evalue>3.93352e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>77</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>77</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>74</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>77</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNL</Hsp_qseq>
+      <Hsp_hseq>MSNVEERVKKIVIEQLGVKEEDVKNDSSFVDDLGADSLDTVELVMALEEEFECEIPDEEAEKITTVQQAIDYINAHL</Hsp_hseq>
+      <Hsp_midline>MS VEERV+KIV+EQLGVKEE++KND+SFVDDLGADSLDTVELVMALEEEFE EIPDE+AEKITT+Q+AIDYI ++L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|939347619|ref|WP_054893073.1|</Hit_id>
+  <Hit_def>MULTISPECIES: acyl carrier protein [Pseudomonas] &gt;gi|1024773587|gb|ANC02480.1| acyl carrier protein [Pseudomonas putida] &gt;gi|1050156075|gb|OCT25121.1| acyl carrier protein [Pseudomonas putida] &gt;gi|1050160160|gb|OCT29108.1| acyl carrier protein [Pseudomonas putida] &gt;gi|1050166984|gb|OCT35858.1| acyl carrier protein [Pseudomonas putida] &gt;gi|1050170622|gb|OCT39458.1| acyl carrier protein [Pseudomonas putida]</Hit_def>
+  <Hit_accession>WP_054893073</Hit_accession>
+  <Hit_len>78</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>130.183</Hsp_bit-score>
+      <Hsp_score>326</Hsp_score>
+      <Hsp_evalue>5.71314e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>76</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>73</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESN</Hsp_qseq>
+      <Hsp_hseq>MSTIEERVKKIVAEQLGVKEEEVKNESSFVDDLGADSLDTVELVMALEEEFETEIPDEEAEKITTVQAAIDYVNSH</Hsp_hseq>
+      <Hsp_midline>MST+EERV+KIV EQLGVKEEE+KN++SFVDDLGADSLDTVELVMALEEEFETEIPDE+AEKITT+Q AIDY+ S+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|501463855|ref|WP_012487300.1|</Hit_id>
+  <Hit_def>MULTISPECIES: acyl carrier protein [Cellvibrionaceae] &gt;gi|226709388|sp|B3PEV2.1|ACP_CELJU RecName: Full=Acyl carrier protein; Short=ACP &gt;gi|190687673|gb|ACE85351.1| acyl carrier protein [Cellvibrio japonicus Ueda107]</Hit_def>
+  <Hit_accession>WP_012487300</Hit_accession>
+  <Hit_len>78</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>129.798</Hsp_bit-score>
+      <Hsp_score>325</Hsp_score>
+      <Hsp_evalue>6.8101e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>77</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>77</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>65</Hsp_identity>
+      <Hsp_positive>74</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>77</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNL</Hsp_qseq>
+      <Hsp_hseq>MSSIEERVKKIVAEQLGVKEEEVKNEASFVEDLGADSLDTVELVMALEEEFETEIPDEEAEKITTVQLAIDYINANL</Hsp_hseq>
+      <Hsp_midline>MS++EERV+KIV EQLGVKEEE+KN+ASFV+DLGADSLDTVELVMALEEEFETEIPDE+AEKITT+Q AIDYI +NL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|551329325|ref|WP_022948768.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Methylohalobius crimeensis]</Hit_def>
+  <Hit_accession>WP_022948768</Hit_accession>
+  <Hit_len>78</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>129.798</Hsp_bit-score>
+      <Hsp_score>325</Hsp_score>
+      <Hsp_evalue>7.4352e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>79</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>78</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>67</Hsp_identity>
+      <Hsp_positive>73</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>79</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLNK</Hsp_qseq>
+      <Hsp_hseq>MSDVAERVKKIVAEQLGVKEE-VSNDASFVDDLGADSLDTVELVMALEEEFDCEIPDEEAEKITTVQEAVDYIESNLNK</Hsp_hseq>
+      <Hsp_midline>MS V ERV+KIV EQLGVKEE + NDASFVDDLGADSLDTVELVMALEEEF+ EIPDE+AEKITT+QEA+DYIESNLNK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|1097253902|emb|SFM38412.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Pseudomonas yangmingensis]</Hit_def>
+  <Hit_accession>SFM38412</Hit_accession>
+  <Hit_len>78</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>129.798</Hsp_bit-score>
+      <Hsp_score>325</Hsp_score>
+      <Hsp_evalue>7.68413e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>76</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>73</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESN</Hsp_qseq>
+      <Hsp_hseq>MSTIEERVKKIVAEQLGVKEEEVTNSASFVDDLGADSLDTVELVMALEEEFETEIPDEEAEKITTVQEAIDYVKNH</Hsp_hseq>
+      <Hsp_midline>MST+EERV+KIV EQLGVKEEE+ N ASFVDDLGADSLDTVELVMALEEEFETEIPDE+AEKITT+QEAIDY++++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|489181676|ref|WP_003091135.1|</Hit_id>
+  <Hit_def>MULTISPECIES: acyl carrier protein [Pseudomonas] &gt;gi|15598162|ref|NP_251656.1| acyl carrier protein [Pseudomonas aeruginosa PAO1] &gt;gi|12230869|sp|O54439.4|ACP1_PSEAE RecName: Full=Acyl carrier protein 1; Short=ACP 1 &gt;gi|9949064|gb|AAG06354.1|AE004722_10 acyl carrier protein [Pseudomonas aeruginosa PAO1] &gt;gi|115586189|gb|ABJ12204.1| acyl carrier protein [Pseudomonas aeruginosa UCBPP-PA14] &gt;gi|126167872|gb|EAZ53383.1| acyl carrier protein [Pseudomonas aeruginosa C3719] &gt;gi|126195053|gb|EAZ59116.1| acyl carrier protein [Pseudomonas aeruginosa 2192] &gt;gi|150959005|gb|ABR81030.1| acyl carrier protein [Pseudomonas aeruginosa PA7] &gt;gi|218771059|emb|CAW26824.1| acyl carrier protein [Pseudomonas aeruginosa LESB58] &gt;gi|310880788|gb|EFQ39382.1| acyl carrier protein [Pseudomonas aeruginosa 39016] &gt;gi|346058779|dbj|GAA18662.1| acyl carrier protein [Pseudomonas aeruginosa NCMG1179] &gt;gi|347304367|gb|AEO74481.1| acyl carrier protein [Pseudomonas aeruginosa M18] &gt;gi|348035555|dbj|BAK90915.1| acyl carrier protein [Pseudomonas aeruginosa NCGM2.S1] &gt;gi|354830898|gb|EHF14930.1| acyl carrier protein [Pseudomonas sp. 2_1_26] &gt;gi|375043210|gb|EHS35841.1| acyl carrier protein [Pseudomonas aeruginosa MPAO1/P1] &gt;gi|375046876|gb|EHS39426.1| acyl carrier protein [Pseudomonas aeruginosa MPAO1/P2] &gt;gi|384397168|gb|EIE43581.1| acyl carrier protein [Pseudomonas aeruginosa PADK2_CF510] &gt;gi|392318812|gb|AFM64192.1| acyl carrier protein [Pseudomonas aeruginosa DK2] &gt;gi|403247995|gb|EJY61595.1| acyl carrier protein [Pseudomonas aeruginosa CIG1] &gt;gi|404346977|gb|EJZ73326.1| acyl carrier protein [Pseudomonas aeruginosa PAO579] &gt;gi|404523434|gb|EKA33857.1| acyl carrier protein [Pseudomonas aeruginosa ATCC 14886] &gt;gi|404535360|gb|EKA45061.1| acyl carrier protein [Pseudomonas aeruginosa CI27] &gt;gi|404536328|gb|EKA45969.1| acyl carrier protein [Pseudomonas aeruginosa ATCC 700888] &gt;gi|404546304|gb|EKA55360.1| acyl carrier protein [Pseudomonas aeruginosa E2] &gt;gi|404546374|gb|EKA55429.1| acyl carrier protein [Pseudomonas aeruginosa ATCC 25324] &gt;gi|451758009|emb|CCQ85094.1| Acyl carrier protein [Pseudomonas aeruginosa 18A] &gt;gi|453043698|gb|EME91426.1| acyl carrier protein [Pseudomonas aeruginosa PA21_ST175] &gt;gi|476651378|gb|EMZ57698.1| acyl carrier protein 1 [Pseudomonas aeruginosa str. Stone 130] &gt;gi|476652442|gb|EMZ58759.1| acyl carrier protein 1 [Pseudomonas sp. P179] &gt;gi|477550274|gb|AGI80915.1| acyl carrier protein [Pseudomonas aeruginosa B136-33] &gt;gi|477559864|gb|ENH93326.1| acyl carrier protein [Pseudomonas aeruginosa PA45] &gt;gi|500729268|gb|EOQ78634.1| acyl carrier protein [Pseudomonas aeruginosa VRFPA02] &gt;gi|508137830|gb|EOT14703.1| acyl carrier protein 1 [Pseudomonas aeruginosa PA14] &gt;gi|508140920|gb|EOT17772.1| acyl carrier protein 1 [Pseudomonas aeruginosa MSH-10] &gt;gi|508142916|gb|EOT19763.1| acyl carrier protein 1 [Pseudomonas aeruginosa PAK] &gt;gi|514248204|gb|AGO40585.1| acyl carrier protein [Pseudomonas aeruginosa RP73] &gt;gi|532132494|gb|EQL39924.1| acyl carrier protein [Pseudomonas aeruginosa VRFPA03] &gt;gi|534389833|gb|EQM91065.1| acyl carrier protein [Pseudomonas aeruginosa WC55] &gt;gi|537451041|gb|ERF08449.1| acyl carrier protein [Pseudomonas aeruginosa HB13] &gt;gi|543879075|gb|AGV68234.1| acyl carrier protein [Pseudomonas aeruginosa c7447m] &gt;gi|543884342|gb|AGV62343.1| acyl carrier protein [Pseudomonas aeruginosa PAO581] &gt;gi|552179255|gb|ERU40697.1| acyl carrier protein 1 [Pseudomonas aeruginosa C52] &gt;gi|552183058|gb|ERU44039.1| acyl carrier protein 1 [Pseudomonas aeruginosa CF77] &gt;gi|552184558|gb|ERU45538.1| acyl carrier protein 1 [Pseudomonas aeruginosa CF614] &gt;gi|552191861|gb|ERU52724.1| acyl carrier protein 1 [Pseudomonas aeruginosa C51] &gt;gi|552202333|gb|ERU63034.1| acyl carrier protein 1 [Pseudomonas aeruginosa C41] &gt;gi|552204863|gb|ERU65808.1| acyl carrier protein 1 [Pseudomonas aeruginosa C48] &gt;gi|552212898|gb|ERU73385.1| acyl carrier protein 1 [Pseudomonas aeruginosa C40] &gt;gi|552219633|gb|ERU79991.1| acyl carrier protein 1 [Pseudomonas aeruginosa C23] &gt;gi|552221639|gb|ERU81895.1| acyl carrier protein 1 [Pseudomonas aeruginosa C20] &gt;gi|552233877|gb|ERU94007.1| acyl carrier protein 1 [Pseudomonas aeruginosa M9A.1] &gt;gi|552236255|gb|ERU96370.1| acyl carrier protein 1 [Pseudomonas aeruginosa M8A.1] &gt;gi|552243372|gb|ERV03932.1| acyl carrier protein 1 [Pseudomonas aeruginosa M8A.2] &gt;gi|552256803|gb|ERV17092.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL17] &gt;gi|552258135|gb|ERV18422.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL19] &gt;gi|552260105|gb|ERV20391.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL18] &gt;gi|552274390|gb|ERV34496.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL16] &gt;gi|552276257|gb|ERV36344.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL15] &gt;gi|552285295|gb|ERV45277.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL10] &gt;gi|552288730|gb|ERV48691.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL14] &gt;gi|552295635|gb|ERV55422.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL11] &gt;gi|552300999|gb|ERV60750.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL09] &gt;gi|552305309|gb|ERV65025.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL08] &gt;gi|552310756|gb|ERV70443.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL07] &gt;gi|552322115|gb|ERV82274.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL04] &gt;gi|552332907|gb|ERV92050.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA028] &gt;gi|552336299|gb|ERV95430.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA027] &gt;gi|552340451|gb|ERV99523.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA026] &gt;gi|552345432|gb|ERW04485.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA024] &gt;gi|552349499|gb|ERW08539.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA025] &gt;gi|552360140|gb|ERW18999.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA023] &gt;gi|552361898|gb|ERW20754.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA022] &gt;gi|552365875|gb|ERW24720.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA021] &gt;gi|552372582|gb|ERW31366.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA019] &gt;gi|552377876|gb|ERW36516.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA020] &gt;gi|552385787|gb|ERW44878.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA017] &gt;gi|552389411|gb|ERW47974.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA018] &gt;gi|552394688|gb|ERW53232.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA014] &gt;gi|552407598|gb|ERW65980.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA012] &gt;gi|552411699|gb|ERW70012.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA013] &gt;gi|552425319|gb|ERW83449.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA006] &gt;gi|552426741|gb|ERW84841.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA005] &gt;gi|552431009|gb|ERW89016.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA011] &gt;gi|552438279|gb|ERW96214.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA004] &gt;gi|552449334|gb|ERX07120.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA003] &gt;gi|552451372|gb|ERX09156.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA002] &gt;gi|552454961|gb|ERX12677.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA001] &gt;gi|552457701|gb|ERX15394.1| acyl carrier protein 1 [Pseudomonas aeruginosa S35004] &gt;gi|552465846|gb|ERX23435.1| acyl carrier protein 1 [Pseudomonas aeruginosa X13273] &gt;gi|552483315|gb|ERX40600.1| acyl carrier protein 1 [Pseudomonas aeruginosa 19660] &gt;gi|552484590|gb|ERX41874.1| acyl carrier protein 1 [Pseudomonas aeruginosa U2504] &gt;gi|552489013|gb|ERX46355.1| acyl carrier protein 1 [Pseudomonas aeruginosa 6077] &gt;gi|552496903|gb|ERX53996.1| acyl carrier protein 1 [Pseudomonas aeruginosa UDL] &gt;gi|552502062|gb|ERX59097.1| acyl carrier protein 1 [Pseudomonas aeruginosa CF18] &gt;gi|552506122|gb|ERX63098.1| acyl carrier protein 1 [Pseudomonas aeruginosa X24509] &gt;gi|552510023|gb|ERX66965.1| acyl carrier protein 1 [Pseudomonas aeruginosa MSH3] &gt;gi|552513996|gb|ERX72126.1| acyl carrier protein 1 [Pseudomonas aeruginosa 62] &gt;gi|552521024|gb|ERX77826.1| acyl carrier protein 1 [Pseudomonas aeruginosa E2] &gt;gi|552568774|gb|ERX85552.1| acyl carrier protein 1 [Pseudomonas aeruginosa M8A.3] &gt;gi|552570028|gb|ERX86804.1| acyl carrier protein 1 [Pseudomonas aeruginosa M8A.4] &gt;gi|552579386|gb|ERX96098.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL24] &gt;gi|552582857|gb|ERX99551.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL23] &gt;gi|552583438|gb|ERY00138.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL25] &gt;gi|552600742|gb|ERY17353.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL22] &gt;gi|552603100|gb|ERY19692.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL21] &gt;gi|552612729|gb|ERY29255.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL20] &gt;gi|552618925|gb|ERY35424.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL13] &gt;gi|552625147|gb|ERY41594.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL12] &gt;gi|552634669|gb|ERY49195.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL05] &gt;gi|552639356|gb|ERY53865.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL06] &gt;gi|552640739|gb|ERY55247.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL02] &gt;gi|552654321|gb|ERY68776.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL03] &gt;gi|552656748|gb|ERY71201.1| acyl carrier protein 1 [Pseudomonas aeruginosa BL01] &gt;gi|552662007|gb|ERY75701.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA016] &gt;gi|552670913|gb|ERY84556.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA015] &gt;gi|552676102|gb|ERY89707.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA008] &gt;gi|552677267|gb|ERY90869.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA010] &gt;gi|552687288|gb|ERZ00832.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA009] &gt;gi|552690533|gb|ERZ04062.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA007] &gt;gi|552699410|gb|ERZ12894.1| acyl carrier protein 1 [Pseudomonas aeruginosa S54485] &gt;gi|552701212|gb|ERZ14681.1| acyl carrier protein 1 [Pseudomonas aeruginosa JJ692] &gt;gi|552715298|gb|ERZ28726.1| acyl carrier protein 1 [Pseudomonas aeruginosa CF5] &gt;gi|552721600|gb|ERZ35003.1| acyl carrier protein 1 [Pseudomonas aeruginosa CF27] &gt;gi|552728438|gb|ERZ41778.1| acyl carrier protein 1 [Pseudomonas aeruginosa MSH10] &gt;gi|552730513|gb|ERZ43848.1| acyl carrier protein 1 [Pseudomonas aeruginosa CF127] &gt;gi|553888369|gb|AGY65063.1| acyl carrier protein [Pseudomonas aeruginosa PAO1-VE2] &gt;gi|553896529|gb|AGY70061.1| acyl carrier protein [Pseudomonas aeruginosa PAO1-VE13] &gt;gi|557219477|gb|ESQ67331.1| acyl carrier protein [Pseudomonas aeruginosa HB15] &gt;gi|557560156|gb|ESR70002.1| acyl carrier protein [Pseudomonas aeruginosa VRFPA05] &gt;gi|557704740|gb|AHA16767.1| acyl carrier protein [Pseudomonas aeruginosa PA1] &gt;gi|557710540|gb|AHA22566.1| Acyl carrier protein [Pseudomonas aeruginosa PA1R] &gt;gi|560114705|emb|CDH76426.1| hypothetical protein PAMH27_2021 [Pseudomonas aeruginosa MH27] &gt;gi|563277136|gb|ESZ81869.1| acyl carrier protein [Pseudomonas aeruginosa DHS29] &gt;gi|563410837|gb|AHB55259.1| acyl carrier protein [Pseudomonas aeruginosa MTB-1] &gt;gi|564830750|gb|ETD42631.1| acyl carrier protein [Pseudomonas aeruginosa VRFPA08] &gt;gi|564833546|gb|ETD45384.1| acyl carrier protein [Pseudomonas aeruginosa VRFPA07] &gt;gi|564872448|gb|ETD74314.1| acyl carrier protein [Pseudomonas aeruginosa VRFPA06] &gt;gi|566563216|gb|AHC64737.1| acyl carrier protein [Pseudomonas aeruginosa LES431] &gt;gi|567365253|gb|AHC76198.1| Acyl carrier protein [Pseudomonas aeruginosa SCV20265] &gt;gi|571154520|emb|CDH70383.1| hypothetical protein P38_2101 [Pseudomonas aeruginosa MH38] &gt;gi|574002358|gb|ETU79210.1| acyl carrier protein 1 [Pseudomonas aeruginosa PS50] &gt;gi|574004939|gb|ETU81770.1| acyl carrier protein 1 [Pseudomonas aeruginosa Z61] &gt;gi|574011039|gb|ETU87839.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA048] &gt;gi|574019720|gb|ETU96473.1| acyl carrier protein 1 [Pseudomonas aeruginosa PS42] &gt;gi|574024434|gb|ETV01173.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA046] &gt;gi|574025540|gb|ETV02278.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA047] &gt;gi|574033864|gb|ETV10566.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA045] &gt;gi|574042642|gb|ETV19308.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA044] &gt;gi|574051109|gb|ETV27734.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA042] &gt;gi|574054723|gb|ETV31341.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA043] &gt;gi|574064391|gb|ETV40967.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA041] &gt;gi|574066585|gb|ETV43157.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA040] &gt;gi|574073441|gb|ETV49963.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA039] &gt;gi|574081377|gb|ETV57850.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA038] &gt;gi|574084142|gb|ETV60601.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWHPSA037] &gt;gi|575874184|emb|CDI91363.1| acyl carrier protein [Pseudomonas aeruginosa PA38182] &gt;gi|576907286|gb|AHH51776.1| acyl carrier protein [Pseudomonas aeruginosa YL84] &gt;gi|582068890|gb|EVT85304.1| acyl carrier protein [Pseudomonas aeruginosa VRFPA09] &gt;gi|584589407|gb|EWH28753.1| acyl carrier protein [Pseudomonas aeruginosa SG17M] &gt;gi|589310492|gb|AHK83033.1| acyl carrier protein [Pseudomonas aeruginosa LESlike5] &gt;gi|589316395|gb|AHK88935.1| acyl carrier protein [Pseudomonas aeruginosa LESlike7] &gt;gi|589322314|gb|AHK94853.1| acyl carrier protein [Pseudomonas aeruginosa LES400] &gt;gi|589328339|gb|AHL00878.1| acyl carrier protein [Pseudomonas aeruginosa LESB65] &gt;gi|589334292|gb|AHL06830.1| acyl carrier protein [Pseudomonas aeruginosa LESlike1] &gt;gi|589340214|gb|AHL12751.1| acyl carrier protein [Pseudomonas aeruginosa LESlike4] &gt;gi|602739037|gb|EYT99864.1| Acyl carrier protein [Pseudomonas aeruginosa PA99] &gt;gi|602746907|gb|EYU07424.1| Acyl carrier protein [Pseudomonas aeruginosa PA103] &gt;gi|610415260|gb|AHW70451.1| acyl carrier protein [Pseudomonas aeruginosa PA96] &gt;gi|611771340|gb|EZN48721.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWH036] &gt;gi|611780123|gb|EZN57448.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWH033] &gt;gi|611782507|gb|EZN59807.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWH035] &gt;gi|611789280|gb|EZN66478.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWH032] &gt;gi|611799150|gb|EZN76262.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWH031] &gt;gi|611800776|gb|EZN77880.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWH030] &gt;gi|611806244|gb|EZN83256.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWH029] &gt;gi|611817993|gb|EZN94875.1| acyl carrier protein 1 [Pseudomonas aeruginosa 3580] &gt;gi|611819751|gb|EZN96615.1| acyl carrier protein 1 [Pseudomonas aeruginosa 3581] &gt;gi|611829312|gb|EZO06009.1| acyl carrier protein 1 [Pseudomonas aeruginosa 3579] &gt;gi|611833917|gb|EZO10563.1| acyl carrier protein 1 [Pseudomonas aeruginosa 3577] &gt;gi|611838318|gb|EZO14894.1| acyl carrier protein 1 [Pseudomonas aeruginosa 3578] &gt;gi|611847172|gb|EZO23614.1| acyl carrier protein 1 [Pseudomonas aeruginosa 3576] &gt;gi|611850379|gb|EZO26761.1| acyl carrier protein 1 [Pseudomonas aeruginosa 3575] &gt;gi|611855892|gb|EZO32220.1| acyl carrier protein 1 [Pseudomonas aeruginosa PAO1-GFP] &gt;gi|611860801|gb|EZO37105.1| acyl carrier protein 1 [Pseudomonas aeruginosa 3574] &gt;gi|611870961|gb|EZO47223.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWH060] &gt;gi|611874081|gb|EZO50335.1| acyl carrier protein 1 [Pseudomonas aeruginosa 3573] &gt;gi|611877698|gb|EZO53939.1| acyl carrier protein 1 [Pseudomonas aeruginosa PS75] &gt;gi|611887978|gb|EZO64178.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWH058] &gt;gi|611895438|gb|EZO71607.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWH059] &gt;gi|611900971|gb|EZO77113.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWH057] &gt;gi|611908185|gb|EZO84291.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWH056] &gt;gi|611911635|gb|EZO87723.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWH055] &gt;gi|611925422|gb|EZP01450.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWH053] &gt;gi|611927365|gb|EZP03378.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWH052] &gt;gi|611929211|gb|EZP05215.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWH054] &gt;gi|611939433|gb|EZP15400.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWH051] &gt;gi|611944227|gb|EZP20184.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWH050] &gt;gi|611947542|gb|EZP23448.1| acyl carrier protein 1 [Pseudomonas aeruginosa BWH049] &gt;gi|618768333|gb|KAJ05637.1| acyl carrier protein [Pseudomonas aeruginosa IGB83] &gt;gi|618778661|gb|KAJ15531.1| acyl carrier protein [Pseudomonas aeruginosa ID4365] &gt;gi|618784585|gb|KAJ21095.1| acyl carrier protein [Pseudomonas aeruginosa 148] &gt;gi|619450126|gb|KAJ92141.1| acyl carrier protein [Pseudomonas aeruginosa PAK] &gt;gi|619865023|dbj|GAJ51574.1| acyl carrier protein [Pseudomonas aeruginosa RB] &gt;gi|647090916|gb|KDR50026.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|653195771|gb|KEA16864.1| acyl carrier protein [Pseudomonas aeruginosa C1913C] &gt;gi|653196205|gb|KEA17286.1| acyl carrier protein [Pseudomonas aeruginosa C2159M] &gt;gi|653204781|gb|KEA25393.1| acyl carrier protein [Pseudomonas aeruginosa C2773C] &gt;gi|653204999|gb|KEA25590.1| acyl carrier protein [Pseudomonas aeruginosa C0324C] &gt;gi|653260559|gb|KEA40861.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|656995953|gb|KEF92587.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|658115239|gb|KEI29951.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|660507584|gb|AID74193.1| acyl carrier protein [Pseudomonas aeruginosa PAO1H2O] &gt;gi|660536269|gb|AID85589.1| acyl carrier protein [Pseudomonas aeruginosa VRFPA04] &gt;gi|667998770|gb|KFB18284.1| acyl carrier protein [Pseudomonas aeruginosa PGPR2] &gt;gi|670354627|dbj|BAP22431.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|671388656|gb|KFF35548.1| acyl carrier protein [Pseudomonas aeruginosa VRFPA01] &gt;gi|674744445|gb|KFL11406.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|675289970|emb|CDO82351.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|685839447|dbj|BAP50057.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|686658144|gb|KGB86734.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|687292898|gb|KGD98052.1| acyl carrier protein [Pseudomonas sp. YS-1p] &gt;gi|698160390|emb|CDM51112.1| acyl carrier protein [Pseudomonas aeruginosa WS394] &gt;gi|725657660|gb|KHE35050.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|725802711|gb|KHE56999.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|725803644|gb|KHE57915.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|727035837|emb|CEI77765.1| Acyl carrier protein (ACP) [Pseudomonas aeruginosa] &gt;gi|734480834|emb|CEI09775.1| hypothetical protein PAMH19_2103 [Pseudomonas aeruginosa] &gt;gi|745843136|gb|AJD63380.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|747646740|emb|CDM45021.1| acyl carrier protein [Pseudomonas aeruginosa WS136] &gt;gi|751374709|gb|AJF50537.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|761592114|dbj|BAQ38943.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|763862069|gb|KJC21544.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|763866635|gb|KJC26050.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|768680260|gb|KJJ10247.1| acyl carrier protein [Pseudomonas sp. HMSC05H02] &gt;gi|777185081|emb|CKH20012.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|814546486|dbj|BAR67004.1| acyl carrier protein 1 [Pseudomonas aeruginosa] &gt;gi|815970762|gb|AKE68921.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|816097433|gb|KKJ44838.1| acyl carrier protein [Pseudomonas aeruginosa MRSN 321] &gt;gi|816108178|gb|KKJ55460.1| acyl carrier protein [Pseudomonas aeruginosa MRSN 317] &gt;gi|817626222|gb|AKF98449.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|823572739|gb|KLI78778.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|831200741|emb|CFU80278.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|856786887|gb|KMN05152.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|861347226|gb|KMQ55509.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|861672834|gb|AKO86118.1| acyl carrier protein [Pseudomonas aeruginosa DSM 50071] &gt;gi|872056993|emb|CRR83063.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872066043|emb|CRN64219.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872072644|emb|CRN87083.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872080351|emb|CRN65029.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872081953|emb|CRR92037.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872093463|emb|CRN27844.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872095452|emb|CRP43173.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872106766|emb|CRQ03665.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872112857|emb|CRN17547.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872119589|emb|CRN74496.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872124436|emb|CRN69672.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872130422|emb|CRO76889.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872139512|emb|CRN18614.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872142117|emb|CRP73027.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872153290|emb|CRN92264.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872160116|emb|CRN86887.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872166474|emb|CRN18607.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872169979|emb|CRQ37312.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872179428|emb|CRW81835.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872186869|emb|CRN61046.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872191228|emb|CRN42175.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872195355|emb|CRS10988.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872204958|emb|CRO47144.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872210447|emb|CRN72001.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872214691|emb|CRO98014.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872223618|emb|CRP00800.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872233221|emb|CRQ41910.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872240136|emb|CRP77419.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872244826|emb|CRO78603.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872253938|emb|CRN34501.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872259944|emb|CRR52463.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872263032|emb|CRS09956.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872269269|emb|CRX24008.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872276357|emb|CRQ90935.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872287706|emb|CRN20191.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872294141|emb|CRQ90539.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872300867|emb|CRN89526.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872307711|emb|CRN31087.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872314413|emb|CRP66651.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872321549|emb|CRN88565.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872328375|emb|CRR40377.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872332361|emb|CRW97590.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872337654|emb|CRP65069.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872349360|emb|CRN89120.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872351132|emb|CRS13639.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872363213|emb|CRN43866.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872364860|emb|CRX09707.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872372216|emb|CRP37395.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872382726|emb|CRO04639.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872388933|emb|CRN86182.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872392963|emb|CRS63013.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872406084|emb|CRN71243.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872407007|emb|CRX36286.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872420341|emb|CRN93338.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872423652|emb|CRX10443.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872434103|emb|CRP27116.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872444079|emb|CRR13734.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872448974|emb|CRP56398.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872458898|emb|CRQ28297.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872460177|emb|CRQ47527.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872467888|emb|CRR26426.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872482066|emb|CRR34924.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872485847|emb|CRP28115.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872491349|emb|CRX23629.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872507956|emb|CRQ59729.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872513116|emb|CRR99964.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872522290|emb|CRQ28103.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872534544|emb|CRN26524.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872539403|emb|CRX21224.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872551389|emb|CRO64286.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872555595|emb|CRQ07760.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872565340|emb|CRP84720.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872572384|emb|CRR75940.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872580634|emb|CRS22287.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872594703|emb|CRW82213.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872598100|emb|CRQ07675.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872606060|emb|CRP62582.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872611268|emb|CRR49553.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872623062|emb|CRR80892.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872627551|emb|CRS23336.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872640949|emb|CRQ13055.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872645585|emb|CRR62426.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872657435|emb|CRP61394.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872668825|emb|CRW91516.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872673903|emb|CRP18004.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|872692523|emb|CRP64536.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|881082936|gb|AKQ16528.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|926453302|emb|CTQ36930.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|927995309|gb|ALE47876.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|928539097|gb|KPD31342.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|929384014|gb|KPE26595.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|929386556|gb|KPE29104.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|929398938|gb|KPE41183.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|929401773|gb|KPE43913.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|940646373|gb|KQB27844.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|942266417|gb|KQC50513.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|942271764|gb|KQC55849.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|942278448|gb|KQC62503.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|942284867|gb|KQC68856.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|942286582|gb|KQC70545.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|943819860|gb|KQJ57239.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|943832253|gb|KQJ63834.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|943837825|gb|KQJ69161.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|943862351|gb|KQJ78477.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|943863968|gb|KQJ80058.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|944132884|gb|KQK59409.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|944133752|gb|KQK60275.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|946708125|emb|CRZ29567.1| Acyl carrier protein [Pseudomonas aeruginosa DK1] &gt;gi|953136011|gb|KRU57801.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|953139947|gb|KRU61671.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|953140898|gb|KRU62614.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|953150384|gb|KRU71709.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|953158413|gb|KRU79516.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|953166655|gb|KRU87490.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|953172647|gb|KRU93208.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|953173331|gb|KRU93865.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|953182753|gb|KRV02810.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|953184667|gb|KRV04621.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|953190327|gb|KRV10037.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|953203336|gb|KRV22679.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|953205344|gb|KRV24634.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|953215512|gb|KRV34524.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|953222784|gb|KRV41510.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|954630318|gb|ALP55463.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955729211|gb|KSB95075.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955731241|gb|KSB97070.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955734467|gb|KSC00231.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955754461|gb|KSC19972.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955758532|gb|KSC24015.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955760359|gb|KSC25827.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955766180|gb|KSC31565.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955767833|gb|KSC33203.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955776864|gb|KSC42078.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955782509|gb|KSC47688.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955790169|gb|KSC55225.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955795853|gb|KSC60805.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955807175|gb|KSC71992.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955807717|gb|KSC72532.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955813713|gb|KSC78429.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955818648|gb|KSC83257.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955826309|gb|KSC90803.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955835374|gb|KSC99737.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955843200|gb|KSD07500.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955845924|gb|KSD10191.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955849730|gb|KSD13957.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955852475|gb|KSD16626.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955863148|gb|KSD27209.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955869062|gb|KSD33047.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955873078|gb|KSD36996.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955876847|gb|KSD40733.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955889815|gb|KSD53456.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955891498|gb|KSD55125.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955899259|gb|KSD62794.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955909224|gb|KSD72545.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955916231|gb|KSD79448.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955917381|gb|KSD80594.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955927226|gb|KSD90204.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955928853|gb|KSD91811.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955937675|gb|KSE00475.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955945118|gb|KSE07750.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955955880|gb|KSE18253.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955959147|gb|KSE21436.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955962800|gb|KSE25011.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955971640|gb|KSE33605.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955980288|gb|KSE42076.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955985291|gb|KSE47010.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955986561|gb|KSE48249.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|955998234|gb|KSE59682.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956000044|gb|KSE61463.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956009918|gb|KSE71174.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956019171|gb|KSE80305.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956020851|gb|KSE81946.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956028925|gb|KSE89891.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956032341|gb|KSE93281.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956032734|gb|KSE93672.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956048720|gb|KSF09451.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956051893|gb|KSF12534.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956052227|gb|KSF12866.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956054053|gb|KSF14652.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956070392|gb|KSF30724.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956073707|gb|KSF33981.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956086475|gb|KSF46578.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956091983|gb|KSF52001.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956092349|gb|KSF52365.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956097970|gb|KSF57933.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956098925|gb|KSF58881.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956102363|gb|KSF62260.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956120874|gb|KSF80481.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956122592|gb|KSF82177.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956126029|gb|KSF85549.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956130779|gb|KSF90234.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956141365|gb|KSG00662.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956143086|gb|KSG02372.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956150311|gb|KSG09521.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956159481|gb|KSG18505.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956168026|gb|KSG26927.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956175376|gb|KSG34103.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956182642|gb|KSG41292.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956187595|gb|KSG46093.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956188763|gb|KSG47229.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956195095|gb|KSG53480.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956203866|gb|KSG62094.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956206238|gb|KSG64402.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956218104|gb|KSG76051.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956219822|gb|KSG77754.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956230878|gb|KSG88579.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956231392|gb|KSG89083.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956248183|gb|KSH05508.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956249103|gb|KSH06420.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956253368|gb|KSH10595.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956270853|gb|KSH27845.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956272867|gb|KSH29791.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956279349|gb|KSH36126.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956280632|gb|KSH37370.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956284006|gb|KSH40675.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956293354|gb|KSH49859.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956300765|gb|KSH57153.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956305483|gb|KSH61729.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956307558|gb|KSH63737.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956318372|gb|KSH74391.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956324936|gb|KSH80856.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956333636|gb|KSH89353.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956344329|gb|KSH99911.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956348057|gb|KSI03524.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956357265|gb|KSI12572.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956361856|gb|KSI17138.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956364400|gb|KSI19654.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956368801|gb|KSI23936.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956369273|gb|KSI24406.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956383244|gb|KSI38186.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956384126|gb|KSI39038.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956391569|gb|KSI46325.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956395583|gb|KSI50253.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956396718|gb|KSI51374.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956411538|gb|KSI65931.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956415405|gb|KSI69707.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956422029|gb|KSI76267.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956434550|gb|KSI88532.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956436858|gb|KSI90810.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956440438|gb|KSI94331.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956444153|gb|KSI97998.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956451289|gb|KSJ05015.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956455475|gb|KSJ09129.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956470136|gb|KSJ23623.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956480874|gb|KSJ34168.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956488050|gb|KSJ41232.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956491291|gb|KSJ44413.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956501363|gb|KSJ54261.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956503332|gb|KSJ56208.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956512221|gb|KSJ64982.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956516662|gb|KSJ69313.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956521360|gb|KSJ73958.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956522730|gb|KSJ75264.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956539485|gb|KSJ91776.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956541086|gb|KSJ93368.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956545871|gb|KSJ98101.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956556000|gb|KSK08032.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956559975|gb|KSK11938.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956561881|gb|KSK13801.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956572812|gb|KSK24498.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956574564|gb|KSK26215.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956585532|gb|KSK37038.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956589850|gb|KSK41301.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956597919|gb|KSK49252.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956602090|gb|KSK53364.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956611412|gb|KSK62573.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956612092|gb|KSK63238.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956626167|gb|KSK77111.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956627562|gb|KSK78489.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956636126|gb|KSK86965.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956640581|gb|KSK91339.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956641570|gb|KSK92308.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956651246|gb|KSL01888.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956657258|gb|KSL07687.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956659635|gb|KSL10024.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956663533|gb|KSL13882.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956682753|gb|KSL32692.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956687683|gb|KSL37563.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956692966|gb|KSL42765.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956700507|gb|KSL50110.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956702399|gb|KSL51971.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956703562|gb|KSL53121.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956716806|gb|KSL66127.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956721722|gb|KSL70966.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956723909|gb|KSL73137.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956736948|gb|KSL85935.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956739153|gb|KSL88116.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956739895|gb|KSL88853.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956744114|gb|KSL92965.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956759111|gb|KSM07728.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956765798|gb|KSM14216.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956766366|gb|KSM14776.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956767108|gb|KSM15498.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956782906|gb|KSM31039.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956785898|gb|KSM33973.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956794914|gb|KSM42773.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956801555|gb|KSM49318.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956802157|gb|KSM49901.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956812349|gb|KSM59895.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956817344|gb|KSM64740.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956821157|gb|KSM68453.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956837178|gb|KSM84151.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956840176|gb|KSM87087.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956840508|gb|KSM87417.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956851852|gb|KSM98527.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956858104|gb|KSN04648.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956865491|gb|KSN11944.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956874249|gb|KSN20540.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956875825|gb|KSN22093.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956885345|gb|KSN31424.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956890297|gb|KSN36246.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956896309|gb|KSN42148.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956896975|gb|KSN42812.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956904227|gb|KSN49947.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956917892|gb|KSN63365.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956922586|gb|KSN67962.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956926695|gb|KSN71892.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956938816|gb|KSN83842.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956942975|gb|KSN87926.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956946646|gb|KSN91546.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956951436|gb|KSN96260.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956953107|gb|KSN97909.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956961366|gb|KSO06048.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956964308|gb|KSO08932.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956970093|gb|KSO14602.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956982055|gb|KSO26165.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956990671|gb|KSO34634.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956997455|gb|KSO41246.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|956999342|gb|KSO43082.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957000405|gb|KSO44137.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957016557|gb|KSO60028.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957029892|gb|KSO73060.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957033693|gb|KSO76740.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957035577|gb|KSO78583.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957051740|gb|KSO93896.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957053214|gb|KSO95345.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957054612|gb|KSO96720.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957064133|gb|KSP05992.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957065243|gb|KSP07046.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957068577|gb|KSP10246.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957079467|gb|KSP20880.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957085200|gb|KSP26391.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957095976|gb|KSP36747.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957105868|gb|KSP46322.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957107748|gb|KSP48180.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957110775|gb|KSP51154.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957120314|gb|KSP60520.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957122768|gb|KSP62932.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957123145|gb|KSP63308.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957134740|gb|KSP74614.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957144740|gb|KSP84424.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957147708|gb|KSP87344.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957148159|gb|KSP87772.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957161541|gb|KSQ00951.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957170554|gb|KSQ09882.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957175566|gb|KSQ14796.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957186364|gb|KSQ25468.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957188747|gb|KSQ27829.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957192391|gb|KSQ31385.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957204900|gb|KSQ43757.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957207859|gb|KSQ46631.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957214448|gb|KSQ53112.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957219665|gb|KSQ58228.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957221025|gb|KSQ59553.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957235055|gb|KSQ73276.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957240435|gb|KSQ78587.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957247753|gb|KSQ85807.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957254165|gb|KSQ92121.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957254795|gb|KSQ92749.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957259383|gb|KSQ97307.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957270028|gb|KSR07740.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957282940|gb|KSR20503.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957285054|gb|KSR22565.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957285445|gb|KSR22954.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957292519|gb|KSR29873.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957301034|gb|KSR38227.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957305607|gb|KSR42724.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957311891|gb|KSR48890.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957321422|gb|KSR58169.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957324078|gb|KSR60795.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957325149|gb|KSR61859.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957337189|gb|KSR73732.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957351794|gb|KSR88093.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957353318|gb|KSR89584.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957359780|gb|KSR95925.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957364051|gb|KSS00772.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957369659|gb|KSS05631.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957372748|gb|KSS08659.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957378536|gb|KSS14342.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957382566|gb|KSS18331.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957393854|gb|KSS29493.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957394788|gb|KSS30422.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957404727|gb|KSS40177.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957410207|gb|KSS45589.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957416220|gb|KSS51556.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957420960|gb|KSS56218.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957425436|gb|KSS60600.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957437974|gb|KSS72890.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957438235|gb|KSS73149.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957446772|gb|KSS81442.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957454559|gb|KSS89121.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957457634|gb|KSS92171.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957468925|gb|KST03082.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957471423|gb|KST05525.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957472335|gb|KST06433.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|957649822|dbj|BAT64766.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|961423246|gb|ALS11885.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|966549252|gb|KTF50549.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|967384045|gb|KTK55493.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|967422336|gb|KTK93445.1| acyl carrier protein [Pseudomonas putida] &gt;gi|968570766|gb|ALT73654.1| acyl carrier protein [Pseudomonas aeruginosa AES-1R] &gt;gi|970335861|gb|ALU49461.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|970753004|gb|KUG32035.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|971502142|gb|ALV79351.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|972156767|gb|KUI82817.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|972162544|gb|KUI88257.1| acyl carrier protein [Pseudomonas aeruginosa 0C2E] &gt;gi|974250215|gb|ALY34152.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|974261614|gb|ALY45550.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|974264706|gb|ALY48641.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|974272276|gb|ALY56210.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|974278422|gb|ALY60517.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|974284255|gb|ALY64640.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|974291008|gb|ALY69651.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|974300112|gb|ALY82670.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|974312525|gb|ALY76248.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|974324000|gb|ALY92084.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|974328968|gb|ALY94883.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|974339617|gb|ALZ03866.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|974344700|gb|ALZ08654.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|974350394|gb|ALZ14347.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|974356137|gb|ALZ20089.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|974362555|gb|ALZ26506.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|975045081|gb|ALZ90685.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|982191352|gb|AMA36596.1| acyl carrier protein [Pseudomonas aeruginosa DHS01] &gt;gi|982576021|gb|KWR99851.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|984357610|gb|ALZ31461.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|984366229|gb|ALZ40079.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|985026298|gb|KWX36324.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|985030466|gb|KWX40453.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|985031408|gb|KWX41383.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|985031838|gb|KWX41809.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|985033198|gb|KWX43145.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|985278324|gb|KWZ64235.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987489147|gb|KXC15339.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987502528|gb|KXC28526.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987505764|gb|KXC31724.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987505923|gb|KXC31877.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987520077|gb|KXC45829.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987521639|gb|KXC47370.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987522131|gb|KXC47856.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987537642|gb|KXC63173.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987538194|gb|KXC63721.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987539034|gb|KXC64549.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987539905|gb|KXC65405.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987556156|gb|KXC81435.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987564699|gb|KXC89891.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987566466|gb|KXC91645.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987582905|gb|KXD07925.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987585555|gb|KXD10556.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987586602|gb|KXD11601.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987595037|gb|KXD19981.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987596695|gb|KXD21608.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987601292|gb|KXD26163.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987602423|gb|KXD27285.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987620106|gb|KXD44598.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987621649|gb|KXD46120.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987629046|gb|KXD53413.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987630480|gb|KXD54832.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987636399|gb|KXD60688.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987638419|gb|KXD62684.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987653177|gb|KXD76908.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987655937|gb|KXD79619.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987656544|gb|KXD80213.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987668826|gb|KXD92224.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987677707|gb|KXE01031.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987678114|gb|KXE01436.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987681869|gb|KXE05162.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987697652|gb|KXE20819.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987703998|gb|KXE27123.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987704434|gb|KXE27555.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987704934|gb|KXE28049.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987707481|gb|KXE30560.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987710158|gb|KXE33190.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987723477|gb|KXE46355.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987724269|gb|KXE47134.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987732763|gb|KXE55540.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987736504|gb|KXE59234.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987742598|gb|KXE65265.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987747468|gb|KXE70091.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987755987|gb|KXE78529.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987761683|gb|KXE84173.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987766783|gb|KXE89236.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987770992|gb|KXE93394.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987776847|gb|KXE99194.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987777414|gb|KXE99753.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987794138|gb|KXF16318.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987803470|gb|KXF25534.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987805292|gb|KXF27343.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987813356|gb|KXF35337.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987820255|gb|KXF42184.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|987825970|gb|KXF47844.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|992147462|gb|KXG18481.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1012059392|gb|KYO77561.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1012070851|gb|KYO88749.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1012075193|gb|KYO92932.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1012082810|gb|KYO99451.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1013828705|gb|KYQ69563.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1013866142|gb|AMU00382.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1016898030|gb|AMX90467.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1017142653|gb|KZE31037.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1019528561|emb|SAJ26825.1| acyl carrier protein [Enterobacter cloacae] &gt;gi|1020678977|gb|KZM01881.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1020686231|gb|KZM08375.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1020693472|gb|KZM14872.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1022532407|gb|ANA72438.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1033870931|gb|ANI11315.1| acyl carrier protein [Pseudomonas aeruginosa SJTD-1] &gt;gi|1042040078|gb|ANP61972.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1042169151|gb|OBY20421.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1042692132|gb|OBY42543.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1062333446|emb|SCM61931.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1062721727|gb|AON06364.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1062727770|gb|AON12353.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1062734655|gb|AON24863.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1062740226|gb|AON30336.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1062746528|gb|AON42323.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1062752608|gb|AON48337.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1062783911|gb|AON71533.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1062857130|gb|AON18340.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1062872134|gb|AON36340.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1066961733|gb|AOP57489.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1072050068|gb|OES47643.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1072052300|gb|OES49644.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1072067275|gb|OES62359.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1072067780|gb|OES62725.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1072794133|gb|AOT40005.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1078449155|gb|OFB73679.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1078454964|gb|OFB79404.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1078458441|gb|OFB82848.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1078462310|gb|OFB86654.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1078474412|gb|OFB98590.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1078491073|gb|OFC14825.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1078494431|gb|OFC18143.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1078499597|gb|OFC23191.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1078500427|gb|OFC24014.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1078505731|gb|OFC29203.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1080189257|gb|OFJ85915.1| acyl carrier protein [Pseudomonas sp. HMSC076A12] &gt;gi|1080197322|gb|OFJ93665.1| acyl carrier protein [Pseudomonas sp. HMSC067F09] &gt;gi|1080223609|gb|OFK18795.1| acyl carrier protein [Pseudomonas sp. HMSC066B03] &gt;gi|1080315622|gb|OFL05941.1| acyl carrier protein [Pseudomonas sp. HMSC066B11] &gt;gi|1080318190|gb|OFL08418.1| acyl carrier protein [Pseudomonas sp. HMSC067D05] &gt;gi|1080415657|gb|OFM01417.1| acyl carrier protein [Pseudomonas sp. HMSC064G05] &gt;gi|1080433184|gb|OFM18044.1| acyl carrier protein [Pseudomonas sp. HMSC076A11] &gt;gi|1080466330|gb|OFM49758.1| acyl carrier protein [Pseudomonas sp. HMSC058A10] &gt;gi|1080487849|gb|OFM70488.1| acyl carrier protein [Pseudomonas sp. HMSC072F09] &gt;gi|1080494730|gb|OFM77035.1| acyl carrier protein [Pseudomonas sp. HMSC058C05] &gt;gi|1080723055|gb|OFO93441.1| acyl carrier protein [Pseudomonas sp. HMSC065H01] &gt;gi|1080790248|gb|OFP57327.1| acyl carrier protein [Pseudomonas sp. HMSC073F05] &gt;gi|1080867536|gb|OFQ30587.1| acyl carrier protein [Pseudomonas sp. HMSC069G05] &gt;gi|1080919568|gb|OFQ80033.1| acyl carrier protein [Pseudomonas sp. HMSC063H08] &gt;gi|1080929903|gb|OFQ89836.1| acyl carrier protein [Pseudomonas sp. HMSC067G02] &gt;gi|1080946494|gb|OFR05744.1| acyl carrier protein [Pseudomonas sp. HMSC065H02] &gt;gi|1080991122|gb|OFR48265.1| acyl carrier protein [Pseudomonas sp. HMSC066A08] &gt;gi|1081119292|gb|OFS68263.1| acyl carrier protein [Pseudomonas sp. HMSC075A08] &gt;gi|1081150534|gb|OFS98305.1| acyl carrier protein [Pseudomonas sp. HMSC16B01] &gt;gi|1081365704|gb|OFV03248.1| acyl carrier protein [Pseudomonas sp. HMSC11A05] &gt;gi|1081695682|emb|SCZ03754.1| Acyl carrier protein [Acinetobacter baumannii] &gt;gi|1084361442|gb|AOX26131.1| Acyl carrier protein 1 [Pseudomonas aeruginosa] &gt;gi|1084367680|gb|AOX32368.1| Acyl carrier protein 1 [Pseudomonas aeruginosa] &gt;gi|1084374304|gb|AOX38991.1| Acyl carrier protein 1 [Pseudomonas aeruginosa] &gt;gi|1085615967|gb|OGX67071.1| putative Acyl carrier protein 1 [Pseudomonas aeruginosa] &gt;gi|1087774257|gb|OGX73851.1| putative Acyl carrier protein 1 [Pseudomonas aeruginosa] &gt;gi|1090957272|gb|OHO96385.1| acyl carrier protein [Pseudomonas sp. HMSC057H01] &gt;gi|1090966373|gb|OHP05128.1| acyl carrier protein [Pseudomonas sp. HMSC058B07] &gt;gi|1090980641|gb|OHP18809.1| acyl carrier protein [Pseudomonas sp. HMSC059F05] &gt;gi|1090989403|gb|OHP27021.1| acyl carrier protein [Pseudomonas sp. HMSC060F12] &gt;gi|1090998355|gb|OHP35454.1| acyl carrier protein [Pseudomonas sp. HMSC060G01] &gt;gi|1091013307|gb|OHP49890.1| acyl carrier protein [Pseudomonas sp. HMSC060G02] &gt;gi|1091016660|gb|OHP53098.1| acyl carrier protein [Pseudomonas sp. HMSC061A10] &gt;gi|1091121474|gb|OHQ53265.1| acyl carrier protein [Pseudomonas sp. HMSC070B12] &gt;gi|1091135484|gb|OHQ66537.1| acyl carrier protein [Pseudomonas sp. HMSC071F02] &gt;gi|1092920900|gb|OHW57849.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1100617755|gb|APB56458.1| Acyl carrier protein 1 [Pseudomonas aeruginosa] &gt;gi|1101464148|gb|APB64600.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1102755317|gb|APC72123.1| Acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1114072636|gb|APJ40817.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1114078256|gb|APJ46436.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1114085322|gb|APJ53501.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1118926689|gb|OKN73503.1| acyl carrier protein 1 [Pseudomonas aeruginosa] &gt;gi|1118928115|gb|OKN74927.1| acyl carrier protein 1 [Pseudomonas aeruginosa] &gt;gi|1118940365|gb|OKN87081.1| acyl carrier protein 1 [Pseudomonas aeruginosa] &gt;gi|1118945153|gb|OKN91823.1| acyl carrier protein 1 [Pseudomonas aeruginosa] &gt;gi|1118954238|gb|OKO00853.1| acyl carrier protein 1 [Pseudomonas aeruginosa] &gt;gi|1118962311|gb|OKO08924.1| acyl carrier protein 1 [Pseudomonas aeruginosa] &gt;gi|1118963453|gb|OKO10028.1| acyl carrier protein 1 [Pseudomonas aeruginosa] &gt;gi|1118969552|gb|OKO16091.1| acyl carrier protein 1 [Pseudomonas aeruginosa] &gt;gi|1118975287|gb|OKO21809.1| acyl carrier protein 1 [Pseudomonas aeruginosa] &gt;gi|1122077297|gb|OKQ89745.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122082921|gb|OKQ95243.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122087109|gb|OKQ99334.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122091467|gb|OKR03543.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122096318|gb|OKR08160.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122102695|gb|OKR14377.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122109983|gb|OKR21410.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122111772|gb|OKR23129.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122129715|gb|OKR40493.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122135506|gb|OKR46055.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122137300|gb|OKR47855.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122137690|gb|OKR48173.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122155601|gb|OKR65447.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122157256|gb|OKR67049.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122166152|gb|OKR75585.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122170917|gb|OKR80188.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122173672|gb|OKR82862.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122185136|gb|OKR93971.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122192819|gb|OKS01442.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122194602|gb|OKS03190.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122203354|gb|OKS11625.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122216193|gb|OKS24166.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122218723|gb|OKS26631.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122231200|gb|OKS38676.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122235405|gb|OKS42771.1| acyl carrier protein [Pseudomonas aeruginosa] &gt;gi|1122239547|gb|OKS46859.1| acyl carrier protein [Pseudomonas aeruginosa]</Hit_def>
+  <Hit_accession>WP_003091135</Hit_accession>
+  <Hit_len>78</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>129.798</Hsp_bit-score>
+      <Hsp_score>325</Hsp_score>
+      <Hsp_evalue>8.11767e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>73</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>65</Hsp_identity>
+      <Hsp_positive>70</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>73</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYI</Hsp_qseq>
+      <Hsp_hseq>MSTIEERVKKIVAEQLGVKEEEVTNSASFVEDLGADSLDTVELVMALEEEFETEIPDEKAEKITTVQEAIDYI</Hsp_hseq>
+      <Hsp_midline>MST+EERV+KIV EQLGVKEEE+ N ASFV+DLGADSLDTVELVMALEEEFETEIPDEKAEKITT+QEAIDYI</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|1053903766|ref|WP_066097875.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Xanthomonas sp. SN8]</Hit_def>
+  <Hit_accession>WP_066097875</Hit_accession>
+  <Hit_len>79</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>129.798</Hsp_bit-score>
+      <Hsp_score>325</Hsp_score>
+      <Hsp_evalue>8.63379e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>78</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>78</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>74</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>78</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESNLN</Hsp_qseq>
+      <Hsp_hseq>MSTIEERVKKIVVEQLGVKEEEVTNSASFVDDLGADSLDTVELVMALEEEFECEIPDEEAEKITTVQQAIDYVKAHVK</Hsp_hseq>
+      <Hsp_midline>MST+EERV+KIVVEQLGVKEEE+ N ASFVDDLGADSLDTVELVMALEEEFE EIPDE+AEKITT+Q+AIDY+++++ </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|516517394|ref|WP_017905760.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Pseudomonas fuscovaginae] &gt;gi|928206026|gb|KPA90752.1| acyl carrier protein [Pseudomonas fuscovaginae] &gt;gi|928209603|gb|KPA94132.1| acyl carrier protein [Pseudomonas fuscovaginae]</Hit_def>
+  <Hit_accession>WP_017905760</Hit_accession>
+  <Hit_len>78</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>129.413</Hsp_bit-score>
+      <Hsp_score>324</Hsp_score>
+      <Hsp_evalue>1.00003e-37</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>76</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>73</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESN</Hsp_qseq>
+      <Hsp_hseq>MSTIEERVKKIVAEQLGVKEEEVKNESSFVEDLGADSLDTVELVMALEEEFETEIPDEEAEKITTVQAAIDYINAN</Hsp_hseq>
+      <Hsp_midline>MST+EERV+KIV EQLGVKEEE+KN++SFV+DLGADSLDTVELVMALEEEFETEIPDE+AEKITT+Q AIDYI +N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|914667595|ref|WP_050658220.1|</Hit_id>
+  <Hit_def>acyl carrier protein [Gallaecimonas pentaromativorans]</Hit_def>
+  <Hit_accession>WP_050658220</Hit_accession>
+  <Hit_len>78</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>129.413</Hsp_bit-score>
+      <Hsp_score>324</Hsp_score>
+      <Hsp_evalue>1.01107e-37</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>76</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>74</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MSTVEERVRKIVVEQLGVKEEELKNDASFVDDLGADSLDTVELVMALEEEFETEIPDEKAEKITTIQEAIDYIESN</Hsp_qseq>
+      <Hsp_hseq>MSTIEERVKKIIVEQLGVKEEEVKNEASFVDDLGADSLDTVELVMALEEEFDTEIPDEEAEKITTVQAAIDYVTAH</Hsp_hseq>
+      <Hsp_midline>MST+EERV+KI+VEQLGVKEEE+KN+ASFVDDLGADSLDTVELVMALEEEF+TEIPDE+AEKITT+Q AIDY+ ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>110290500</Statistics_db-num>
+      <Statistics_db-len>1757108233</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+
