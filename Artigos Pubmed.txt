@@ -1,0 +1,80 @@
+Title: Broad-Range Detection of Microorganisms Directly from Bronchoalveolar Lavage Specimens by PCR/Electrospray Ionization-Mass Spectrometry.
+Authors: ['Ullberg M', 'Luthje P', 'Molling P', 'Stralin K', 'Ozenci V']
+Source: PLoS One. 2017 Jan 13;12(1):e0170033. doi: 10.1371/journal.pone.0170033. eCollection 2017.
+
+Title: Effect of disinfectant exposure on Legionella pneumophila associated with simulated drinking water biofilms: release, inactivation, and infectivity.
+Authors: ['Shen Y', 'Huang C', 'Lin J', 'Wu W', 'Ashbolt NJ', 'Liu WT', 'Nguyen TH']
+Source: Environ Sci Technol. 2017 Jan 13. doi: 10.1021/acs.est.6b04754.
+
+Title: A Bioinformatics Tool for Ensuring the Backwards Compatibility of Legionella pneumophila Typing in the Genomic Era.
+Authors: ['Gordon M', 'Yakunin E', 'Valinsky L', 'Chalifa-Caspi V', 'Moran-Gilad J']
+Source: Clin Microbiol Infect. 2017 Jan 7. pii: S1198-743X(17)30007-1. doi: 10.1016/j.cmi.2017.01.002.
+
+Title: A Unique cis-Encoded Small Noncoding RNA Is Regulating Legionella pneumophila Hfq Expression in a Life Cycle-Dependent Manner.
+Authors: ['Oliva G', 'Sahr T', 'Rolando M', 'Knoth M', 'Buchrieser C']
+Source: MBio. 2017 Jan 10;8(1). pii: e02182-16. doi: 10.1128/mBio.02182-16.
+
+Title: Prevalence and diversity of Chlamydiales and other amoeba-resisting bacteria in domestic drinking water systems.
+Authors: ['Lienard J', 'Croxatto A', 'Gervaix A', 'Levi Y', 'Loret JF', 'Posfay-Barbe KM', 'Greub G']
+Source: New Microbes New Infect. 2016 Nov 14;15:107-116. doi: 10.1016/j.nmni.2016.10.003. eCollection 2017 Jan.
+
+Title: Ribosomal mutations conferring macrolide resistance in Legionella pneumophila.
+Authors: ['Descours G', 'Ginevra C', 'Jacotin N', 'Forey F', 'Chastang J', 'Kay E', 'Etienne J', 'Lina G', 'Doublet P', 'Jarraud S']
+Source: Antimicrob Agents Chemother. 2017 Jan 9. pii: AAC.02188-16. doi: 10.1128/AAC.02188-16.
+
+Title: Innate immunity against Legionella pneumophila during pulmonary infections in mice.
+Authors: ['Park B', 'Park G', 'Kim J', 'Lim SA', 'Lee KM']
+Source: Arch Pharm Res. 2017 Jan 6. doi: 10.1007/s12272-016-0859-9.
+
+Title: BIOFILM COMPOSITION AND THRESHOLD CONCENTRATION FOR GROWTH OF LEGIONELLA PNEUMOPHILA ON SURFACES EXPOSED TO FLOWING WARM TAP WATER WITHOUT DISINFECTANT.
+Authors: ['van der Kooij D', 'Bakker GL', 'Italiaander R', 'Veenendaal HR', 'Wullings BA']
+Source: Appl Environ Microbiol. 2017 Jan 6. pii: AEM.02737-16. doi: 10.1128/AEM.02737-16.
+
+Title: [Rapid diagnostic test for respiratory infections].
+Authors: ['Marimon JM', 'Navarro-Mari JM']
+Source: Enferm Infecc Microbiol Clin. 2017 Jan 3. pii: S0213-005X(16)30387-1. doi: 10.1016/j.eimc.2016.11.007.
+
+Title: A Single Legionella Effector Catalyzes a Multistep Ubiquitination Pathway to Rearrange Tubular Endoplasmic Reticulum for Replication.
+Authors: ['Kotewicz KM', 'Ramabhadran V', 'Sjoblom N', 'Vogel JP', 'Haenssler E', 'Zhang M', 'Behringer J', 'Scheck RA', 'Isberg RR']
+Source: Cell Host Microbe. 2016 Dec 22. pii: S1931-3128(16)30518-2. doi: 10.1016/j.chom.2016.12.007.
+
+Title: A Seasonal Assessment of Opportunistic Premise Plumbing Pathogens in Roof-Harvested Rainwater Tanks.
+Authors: ['Hamilton KA', 'Ahmed W', 'Palmer A', 'Smith K', 'Toze S', 'Haas CN']
+Source: Environ Sci Technol. 2017 Jan 2. doi: 10.1021/acs.est.6b04814.
+
+Title: The regulation of acute immune responses to the bacterial lung pathogen Legionella pneumophila.
+Authors: ['Brown AS', 'Yang C', 'Hartland EL', 'van Driel IR']
+Source: J Leukoc Biol. 2016 Dec 29. pii: jlb.4MR0816-340R. doi: 10.1189/jlb.4MR0816-340R.
+
+Title: [Presence of Legionella spp. in household drinking water reservoirs in Resistencia, Chaco, Argentina. Preliminary report].
+Authors: ['Losch LS', 'Merino LA']
+Source: Rev Argent Microbiol. 2016 Oct - Dec;48(4):329-332. doi: 10.1016/j.ram.2016.07.002. Epub 2016 Oct 28.
+
+Title: Legionella Risk Management and Control in Potable Water Systems: Argument for the Abolishment of Routine Testing.
+Authors: ['Whiley H']
+Source: Int J Environ Res Public Health. 2016 Dec 24;14(1). pii: E12. doi: 10.3390/ijerph14010012.
+
+Title: Dipolar Relaxation Dynamics at the Active Site of an ATPase Regulated by Membrane Lateral Pressure.
+Authors: ['Fischermeier E', 'Pospisil P', 'Sayed A', 'Hof M', 'Solioz M', 'Fahmy K']
+Source: Angew Chem Int Ed Engl. 2017 Jan 24;56(5):1269-1272. doi: 10.1002/anie.201611582. Epub 2016 Dec 27.
+
+Title: MAMs are attractive targets for bacterial repurposing of the host cell: MAM-functions might be key for undermining an infected cell.
+Authors: ['Escoll P', 'Rolando M', 'Buchrieser C']
+Source: Bioessays. 2016 Dec 27. doi: 10.1002/bies.201600171.
+
+Title: Inflammasome biology taught by Legionella pneumophila.
+Authors: ['Mascarenhas DP', 'Zamboni DS']
+Source: J Leukoc Biol. 2016 Dec 20. pii: jlb.3MR0916-380R. doi: 10.1189/jlb.3MR0916-380R.
+
+Title: Legionella pneumophila OxyR is a redundant transcriptional regulator that contributes to expression control of the two-component CpxRA system.
+Authors: ['Tanner JR', 'Patel PG', 'Hellinga JR', 'Donald LJ', 'Jimenez C', 'LeBlanc JJ', 'Brassinga AK']
+Source: J Bacteriol. 2016 Dec 19. pii: JB.00690-16.
+
+Title: Diverse mechanisms of metaeffector activity in an intracellular bacterial pathogen, Legionella pneumophila.
+Authors: ['Urbanus ML', 'Quaile AT', 'Stogios PJ', 'Morar M', 'Rao C', 'Di Leo R', 'Evdokimova E', 'Lam M', 'Oatway C', 'Cuff ME', 'Osipiuk J', 'Michalska K', 'Nocek BP', 'Taipale M', 'Savchenko A', 'Ensminger AW']
+Source: Mol Syst Biol. 2016 Dec 16;12(12):893. doi: 10.15252/msb.20167381.
+
+Title: Complete Genome Sequences of Six Legionella pneumophila Isolates from Two Collocated Outbreaks of Legionnaires' Disease in 2005 and 2008 in Sarpsborg/Fredrikstad, Norway.
+Authors: ['Dybwad M', 'Aarskaug T', 'Fykse EM', 'Henie Madslien E', 'Blatny JM']
+Source: Genome Announc. 2016 Dec 15;4(6). pii: e01367-16. doi: 10.1128/genomeA.01367-16.
+
